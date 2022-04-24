@@ -1,0 +1,732 @@
+MODEL ID,MODEL NAME,GXT NAME,VEHICLE TYPE,VEHICLE CLASS,TOP SPEED
+25397,cm_admiral,Admiral,Car (0),Rich (2),163.44 km/h
+6578,vc_admiral,Admiral,Car (0),Rich (2),163.44 km/h
+445,admiral,Admiral,Car (0),Rich (2),163.44 km/h
+6666,vc_aamb,Air Ambulance,Helicopter (3),Normal (0),237.84 km/h
+25485,mplc_fireheli,Air Firetruck,Helicopter (3),Normal (0),237.84 km/h
+25428,mpvc_firehelif,Air Firetruck,Helicopter (3),Normal (0),237.84 km/h
+6763,bw_airmax,Airmaster,Car (0),Normal (0),140.16 km/h
+3248,airtrain,Airtrain,Plane (4),Normal (0),94.8004 km/h
+6696,lcs_airtrain,Airtrain,Plane (4),Normal (0),94.8004 km/h
+6272,vcs_airtrain,Airtrain,Plane (4),Normal (0),94.8004 km/h
+602,alpha,Alpha,Car (0),Executive (3),168.72 km/h
+6788,vcs_speeder,Ambassador,Boat (5),Boat - leisure (9),76.8003 km/h
+25364,cm_ambulan,Ambulance,Car (0),Normal (0),153.6 km/h
+6757,bw_ambulan,Ambulance,Car (0),Normal (0),135.84 km/h
+6719,cc_ambulan,Ambulance,Car (0),Normal (0),163.44 km/h
+6688,mw_ambulan,Ambulance,Car (0),Normal (0),153.6 km/h
+6684,at_ambulan,Ambulance,Car (0),Normal (0),153.6 km/h
+6553,lc_ambulan,Ambulance,Car (0),Normal (0),153.6 km/h
+5690,vc_ambulan,Ambulance,Car (0),Normal (0),153.6 km/h
+416,ambulan,Ambulance,Car (0),Normal (0),153.6 km/h
+592,androm,Andromada,Plane (4),Normal (0),99.6003 km/h
+25641,vcs_angel,Angel,Bike (9),Motorcycle (8),165.36 km/h
+3222,lcs_angel,Angel,Bike (9),Motorcycle (8),165.36 km/h
+793,vc_angel,Angel,Bike (9),Motorcycle (8),165.36 km/h
+25645,cc_annihilator,Annihilator,Helicopter (3),Normal (0),237.84 km/h
+25375,cc_rhino,APC,Car (0),Big (5),80.0001 km/h
+6665,vc_armadillo,Armadillo,Helicopter (3),Normal (0),237.84 km/h
+6538,ug_armhyd,Army Hydra,Plane (4),Normal (0),43.4404 km/h
+435,artict1,Articulated Trailer 1,Trailer (11),Normal (0),141.84 km/h
+450,artict2,Articulated Trailer 2,Trailer (11),Normal (0),141.84 km/h
+591,artict3,Articulated Trailer 3,Trailer (11),Normal (0),141.84 km/h
+25608,artict4,Articulated Trailer 4,Trailer (11),Normal (0),141.84 km/h
+25613,artict5,Articulated Trailer 5,Trailer (11),Normal (0),141.84 km/h
+6781,vc_at400_4,AT-400,Plane (4),Normal (0),99.6003 km/h
+6780,vc_at400_3,AT-400,Plane (4),Normal (0),99.6003 km/h
+6779,vc_at400_2,AT-400,Plane (4),Normal (0),99.6003 km/h
+6778,vc_at400_1,AT-400,Plane (4),Normal (0),99.6003 km/h
+577,at400,AT-400,Plane (4),Normal (0),99.6003 km/h
+3138,lcs_avenger,Avenger,Bike (9),Motorcycle (8),193.44 km/h
+6581,vc_baggage,Baggage,Car (0),Normal (0),99.1202 km/h
+485,baggage,Baggage,Car (0),Normal (0),99.1202 km/h
+606,bagboxa,Baggage Box A,Trailer (11),Normal (0),99.1202 km/h
+607,bagboxb,Baggage Box B,Trailer (11),Normal (0),99.1202 km/h
+7974,sol_baller,Baller,Car (0),Normal (0),157.44 km/h
+25389,lcs_ballot,Ballot Van,Car (0),Normal (0),109.92 km/h
+25396,mw_balmoral,Balmoral,Car (0),Rich (2),173.04 km/h
+568,bandito,Bandito,Car (0),Normal (0),145.68 km/h
+6554,lc_banshee,Banshee,Car (0),Executive (3),204.96 km/h
+6528,vc_banshee,Banshee,Car (0),Executive (3),203.76 km/h
+429,banshee,Banshee,Car (0),Executive (3),201.12 km/h
+25538,mw_barracks,Barracks,Car (0),Normal (0),110.16 km/h
+25493,cc_barracks,Barracks,Car (0),Normal (0),110.16 km/h
+433,barracks,Barracks,Car (0),Normal (0),110.16 km/h
+6583,vc_barracks,Barracks OL,Car (0),Normal (0),110.16 km/h
+6555,lc_barracks,Barracks OL,Car (0),Normal (0),110.16 km/h
+511,beagle,Beagle,Plane (4),Normal (0),52.0804 km/h
+613,lc_bellyup,Belly Up,Car (0),Worker (4),133.92 km/h
+25514,vcs_benson,Benson,Car (0),Worker (4),122.64 km/h
+6584,vc_benson,Benson,Car (0),Worker (4),122.64 km/h
+499,benson,Benson,Car (0),Worker (4),122.64 km/h
+459,topfun,Berkley's RC Van,Car (0),Normal (0),135.84 km/h
+6673,lc_bfinject,BF Injection,Car (0),Executive (3),134.88 km/h
+6585,vc_bfinject,BF Injection,Car (0),Executive (3),134.88 km/h
+424,bfinject,BF Injection,Car (0),Executive (3),134.88 km/h
+581,bf400,BF-400,Bike (9),Motorcycle (8),165.36 km/h
+1200,lcs_bickle76,Bickle 76,Car (0),Taxi (6),189.36 km/h
+25505,bw_bmxs,Bike,BMX (10),Bicycle (11),85.6802 km/h
+509,bike,Bike,BMX (10),Bicycle (11),85.6802 km/h
+6785,vc_biplane,Biplane,Plane (4),Normal (0),62.8804 km/h
+25712,ul_blackline,BlackLine ST,Car (0),Rich (2),174.24 km/h
+536,blade,Blade,Car (0),Executive (3),172.56 km/h
+25447,cm_blista,Blista,Car (0),Normal (0),152.16 km/h
+799,lc_blista,Blista,Car (0),Normal (0),152.16 km/h
+6586,vc_blistac,Blista Compact,Car (0),Normal (0),162.24 km/h
+496,blistac,Blista Compact,Car (0),Normal (0),162.24 km/h
+25578,cc_blistag,Blista GPX,Car (0),Normal (0),165.6 km/h
+25361,cm_bhburrito,Bloodhound Burrito,Car (0),Normal (0),156.24 km/h
+5099,cm_armymav,Bloodhound Maverick,Helicopter (3),Normal (0),237.84 km/h
+4801,cm_bloodh,Bloodhound Patriot,Car (0),Normal (0),172.32 km/h
+25372,cm_rhino,Bloodhound Rhino,Car (0),Normal (0),93.8401 km/h
+4782,vc_bloodrb,Bloodring Banger,Car (0),Normal (0),179.04 km/h
+6587,vc_bloodra,Bloodring Banger,Car (0),Normal (0),172.56 km/h
+504,bloodra,Bloodring Banger,Car (0),Normal (0),172.56 km/h
+25510,bw_retro,BMX,BMX (10),Bicycle (11),60.2401 km/h
+25508,bw_oladbike,BMX,BMX (10),Bicycle (11),51.84 km/h
+25506,bw_custombike,BMX,BMX (10),Bicycle (11),68.6401 km/h
+25504,bw_bmxr,BMX,BMX (10),Bicycle (11),66.2401 km/h
+25503,bw_bmxc,BMX,BMX (10),Bicycle (11),57.84 km/h
+25502,bw_bmx,BMX,BMX (10),Bicycle (11),57.84 km/h
+25501,bw_bike,BMX,BMX (10),Bicycle (11),72.2401 km/h
+25500,bw_aquabike,BMX,BMX (10),Bicycle (11),74.6401 km/h
+6678,vcs_bmxgirl,BMX,BMX (10),Bicycle (11),79.2002 km/h
+6677,vcs_bmxboy,BMX,BMX (10),Bicycle (11),79.2002 km/h
+481,bmx,BMX,BMX (10),Bicycle (11),79.2002 km/h
+6588,vc_bobcat,Bobcat,Car (0),Worker (4),139.68 km/h
+6552,lc_bobcat,Bobcat,Car (0),Worker (4),144.48 km/h
+422,bobcat,Bobcat,Car (0),Worker (4),139.68 km/h
+6268,ug_bobcatxl,Bobcat XL,Car (0),Worker (4),139.68 km/h
+25579,cc_bolter,Bolter,Car (0),Normal (0),175.92 km/h
+1204,lc_borgnine,Borgnine,Car (0),Taxi (6),178.32 km/h
+6786,vc_bovver,Bovver '64,Plane (4),Normal (0),13.6802 km/h
+25516,bw_boxville,Boxville,Car (0),Worker (4),99.3602 km/h
+25515,vcs_boxville,Boxville,Car (0),Worker (4),99.3602 km/h
+25399,cc_boxville,Boxville,Car (0),Worker (4),107.52 km/h
+6589,vc_boxville,Boxville,Car (0),Worker (4),99.3602 km/h
+609,boxburg,Boxville,Car (0),Worker (4),107.52 km/h
+498,boxville,Boxville,Car (0),Worker (4),99.3602 km/h
+25693,ul_boyarin,Boyarin,Car (0),Normal (0),148.8 km/h
+401,bravura,Bravura,Car (0),Poor (1),146.64 km/h
+575,broadway,Broadway,Car (0),Poor (1),157.44 km/h
+570,streakc,Brown Streak,Train (6),Normal (0),129.84 km/h
+538,streak,Brown Streak,Train (6),Normal (0),127.68 km/h
+518,buccanee,Buccaneer,Car (0),Normal (0),163.92 km/h
+25691,cc_buffalo,Buffalo,Car (0),Normal (0),163.92 km/h
+402,buffalo,Buffalo,Car (0),Executive (3),186 km/h
+25610,mw_bug,Bug,Car (0),Normal (0),148.8 km/h
+4789,vcs_bulldozer,Bulldozer,Car (0),Normal (0),66.9602 km/h
+541,bullet,Bullet,Car (0),Executive (3),202.56 km/h
+25539,mw_bulletgt,Bullet GT,Car (0),Executive (3),210.24 km/h
+25522,lcs_bullion,Bullion,Car (0),Rich (2),192.24 km/h
+25408,cm_burrito,Burrito,Car (0),Normal (0),156.24 km/h
+6590,vc_burrito,Burrito,Car (0),Normal (0),156.24 km/h
+482,burrito,Burrito,Car (0),Normal (0),156.24 km/h
+25521,cc_bus,Bus,Car (0),Normal (0),115.92 km/h
+6591,vc_bus,Bus,Car (0),Normal (0),130.08 km/h
+6556,lc_bus,Bus,Car (0),Normal (0),130.08 km/h
+431,bus,Bus,Car (0),Normal (0),130.08 km/h
+25446,cm_cabbie,Cabbie,Car (0),Taxi (6),142.32 km/h
+25445,vcs_cabbie,Cabbie,Car (0),Taxi (6),142.32 km/h
+25414,mp_bcabbie,Cabbie,Car (0),Taxi (6),159.6 km/h
+6764,bw_cabbie,Cabbie,Car (0),Taxi (6),142.32 km/h
+6592,vc_cabbie,Cabbie,Car (0),Taxi (6),142.32 km/h
+6557,lc_cabbie,Cabbie,Car (0),Taxi (6),142.32 km/h
+438,cabbie,Cabbie,Car (0),Taxi (6),142.32 km/h
+6593,vc_caddy,Caddy,Car (0),Rich (2),94.8002 km/h
+457,caddy,Caddy,Car (0),Rich (2),94.8002 km/h
+527,cadrona,Cadrona,Car (0),Poor (1),148.8 km/h
+25540,mw_caldwell,Caldwell,Car (0),Poor (1),156.48 km/h
+6793,lcs_campvan,Campaign Van,Car (0),Poor (1),135.84 km/h
+483,camper,Camper,Car (0),Normal (0),122.4 km/h
+25541,mw_canyon,Canyon,Car (0),Normal (0),143.52 km/h
+25464,ug_caravana,Caravan,Trailer (11),Normal (0),98.8802 km/h
+548,cargobob,Cargobob,Helicopter (3),Normal (0),237.84 km/h
+663,lc_columb,Cartel Cruiser,Car (0),Rich (2),156.48 km/h
+25359,cc_ccpdvan,CCPD Boxville,Car (0),Normal (0),110.16 km/h
+524,cement,Cement Truck,Car (0),Worker (4),129.84 km/h
+6594,vc_cheetah,Cheetah,Car (0),Executive (3),191.76 km/h
+6558,lc_cheetah,Cheetah,Car (0),Executive (3),198.24 km/h
+415,cheetah,Cheetah,Car (0),Executive (3),191.76 km/h
+6532,vc_cholo,Cholo Sabre,Car (0),Normal (0),179.28 km/h
+25581,cc_clover,Clover,Car (0),Poor (1),163.92 km/h
+542,clover,Clover,Car (0),Poor (1),163.92 km/h
+6797,sol_clover69,Clover 69,Car (0),Poor (1),171.84 km/h
+3141,clovral,Clover Racer,Car (0),Executive (3),163.92 km/h
+589,club,Club,Car (0),Normal (0),162.24 km/h
+25424,vc_coach,Coach,Car (0),Normal (0),157.44 km/h
+4777,lc_coach,Coach,Car (0),Normal (0),157.44 km/h
+437,coach,Coach,Car (0),Normal (0),157.44 km/h
+6765,vc_coastg,Coastguard,Boat (5),Normal (0),61.6803 km/h
+472,coastg,Coastguard,Boat (5),Normal (0),61.6803 km/h
+532,combine,Combine Harvester,Car (0),Normal (0),109.68 km/h
+6595,vc_comet,Comet,Car (0),Executive (3),183.84 km/h
+480,comet,Comet,Car (0),Executive (3),183.84 km/h
+25602,mw_comet,Comet SR,Car (0),Executive (3),182.88 km/h
+25403,mp_commy,Communisator,Car (0),Normal (0),157.68 km/h
+25603,mw_coquette,Coquette,Car (0),Executive (3),204.48 km/h
+25544,mw_cotmouth,Cottonmouth,Car (0),Rich (2),178.56 km/h
+6664,vc_countach,Countcash,Car (0),Executive (3),239.04 km/h
+512,cropdust,Cropduster,Plane (4),Normal (0),49.9204 km/h
+699,vc_cubanh,Cuban Hermes,Car (0),Normal (0),175.44 km/h
+6702,at_daemon,Daemon,Bike (9),Motorcycle (8),156.72 km/h
+25545,mw_dagger,Dagger GTX,Car (0),Normal (0),177.12 km/h
+5094,dash,Dashhound,Car (0),Normal (0),157.44 km/h
+25684,cc_dinterc,Dead Interceptor,Car (0),Normal (0),172.56 km/h
+25413,mp_deadwood,Deadwood,Car (0),Poor (1),140.16 km/h
+6274,mw_defend,Defender,Car (0),Normal (0),93.8401 km/h
+4790,lcs_deimos,Deimos SP,Car (0),Executive (3),221.04 km/h
+6762,bw_delegate,Delegate,Car (0),Rich (2),163.44 km/h
+6267,ug_deluxo,Deluxo,Car (0),Executive (3),207.6 km/h
+794,vc_deluxo,Deluxo,Car (0),Executive (3),207.6 km/h
+25650,ul_deviant,Deviant,Car (0),Rich (2),175.92 km/h
+578,dft30,DFT-30,Car (0),Worker (4),129.84 km/h
+668,lc_diablos,Diablo Stallion,Car (0),Normal (0),167.28 km/h
+6766,vc_dinghy,Dinghy,Boat (5),Boat - worker (10),53.0404 km/h
+473,dinghy,Dinghy,Boat (5),Boat - worker (10),53.0404 km/h
+6674,lc_dodo,Dodo,Plane (4),Normal (0),56.4004 km/h
+593,dodo,Dodo,Plane (4),Normal (0),56.4004 km/h
+4800,bw_domestic,Domestic,Car (0),Poor (1),111.84 km/h
+6692,bw_dozer,Dozer,Car (0),Worker (4),63.8402 km/h
+486,dozer,Dozer,Car (0),Normal (0),63.8402 km/h
+6699,ug_tampa,Drift Tampa,Car (0),Poor (1),153.12 km/h
+25665,mw_dubsta,Dubsta,Car (0),Rich (2),153.6 km/h
+5693,dukes,Dukes,Car (0),Executive (3),179.04 km/h
+25409,mp_dukesr,Dukes Racer,Car (0),Normal (0),214.32 km/h
+406,dumper,Dumper,Monstertruck (1),Worker (4),110 km/h
+573,duneride,Dune,Monstertruck (1),Normal (0),110 km/h
+25546,mw_destino,El Destino,Car (0),Normal (0),172.56 km/h
+507,elegant,Elegant,Car (0),Normal (0),165.6 km/h
+562,elegy,Elegy,Car (0),Rich (2),177.36 km/h
+6784,sol_elevator,Elevator,Car (0),Worker (4),120.72 km/h
+25582,cc_emperor,Emperor,Car (0),Normal (0),152.64 km/h
+585,emperor,Emperor,Car (0),Normal (0),152.64 km/h
+25392,mll_enforcer,Enforcer,Car (0),Normal (0),165.12 km/h
+25391,at_enforcer,Enforcer,Car (0),Big (5),175.92 km/h
+25355,sf_enforcer,Enforcer,Car (0),Normal (0),165.12 km/h
+25354,sa_enforcer,Enforcer,Car (0),Normal (0),165.12 km/h
+25353,lv_enforcer,Enforcer,Car (0),Normal (0),165.12 km/h
+4779,ul_enforcer,Enforcer,Car (0),Normal (0),165.12 km/h
+6030,cm_enforcer,Enforcer,Car (0),Normal (0),165.12 km/h
+6029,cc_enforcer,Enforcer,Car (0),Normal (0),165.12 km/h
+6028,lc_enforcer,Enforcer,Car (0),Normal (0),165.12 km/h
+6027,vc_enforcer,Enforcer,Car (0),Normal (0),165.12 km/h
+427,enforcer,Enforcer,Car (0),Normal (0),165.12 km/h
+6599,vc_esperant,Esperanto,Car (0),Normal (0),148.8 km/h
+6559,lc_esperant,Esperanto,Car (0),Poor (1),148.8 km/h
+419,esperant,Esperanto,Car (0),Normal (0),148.8 km/h
+587,euros,Euros,Car (0),Rich (2),164.4 km/h
+25605,mw_exsess,Exsess,Car (0),Rich (2),170.4 km/h
+25547,mw_faction,Faction TT,Car (0),Rich (2),179.04 km/h
+25576,lcs_faggio,Faggio,Bike (9),Moped (7),122.16 km/h
+25499,bw_faggio,Faggio,Bike (9),Moped (7),75.8401 km/h
+6698,lcs_faggio2,Faggio,Bike (9),Moped (7),122.16 km/h
+6600,vc_faggio,Faggio,Bike (9),Moped (7),122.16 km/h
+462,faggio,Faggio,Bike (9),Moped (7),122.16 km/h
+6270,mw_falcon,Falcon,Bike (9),Motorcycle (8),166.8 km/h
+610,farmtr1,Farm Trailer,Trailer (11),Normal (0),99.1202 km/h
+25542,mw_fbicanyo,FBI Canyon,Car (0),Normal (0),143.52 km/h
+4791,lcs_fbicar,FBI Cruiser,Car (0),Normal (0),180 km/h
+6679,hydrab,FBI Hydra,Plane (4),Normal (0),43.4404 km/h
+25436,cm_fbicar,FBI Kuruma,Car (0),Rich (2),170.4 km/h
+6675,lc_fbicar,FBI Kuruma,Car (0),Normal (0),148.8 km/h
+4774,vc_fbiranch,FBI Rancher,Car (0),Normal (0),156.48 km/h
+490,fbiranch,FBI Rancher,Car (0),Normal (0),156.48 km/h
+25393,at_fbisent,FBI Sentinel,Car (0),Normal (0),163.44 km/h
+25437,cc_fbicar,FBI Stanier,Car (0),Normal (0),186 km/h
+528,fbitruck,FBI Truck,Car (0),Big (5),175.92 km/h
+667,vc_fbicar,FBI Washington,Car (0),Normal (0),153.36 km/h
+521,fcr900,FCR-900,Bike (9),Motorcycle (8),176.16 km/h
+533,feltzer,Feltzer,Car (0),Executive (3),166.56 km/h
+25604,mw_fiammetta,Fiammetta,Car (0),Rich (2),198.48 km/h
+25484,mplc_fireamb,Fire Ambulance,Car (0),Normal (0),153.6 km/h
+25431,mpvc_fireamb,Fire Ambulance,Car (0),Normal (0),153.6 km/h
+25482,mplc_dinghyf,Fire Dinghy,Boat (5),Boat - worker (10),53.0404 km/h
+25426,mpvc_dinghyf,Fire Dinghy,Boat (5),Boat - worker (10),53.0404 km/h
+25491,mplc_fireunit,Fire Landstalker,Car (0),Rich (2),150.96 km/h
+25429,mpvc_fireunitf,Fire Landstalker,Car (0),Normal (0),157.44 km/h
+25483,mplc_reeferf,Fire Reefer,Boat (5),Boat - worker (10),40.0803 km/h
+25427,mpvc_reeferf,Fire Reefer,Boat (5),Boat - worker (10),40.0803 km/h
+25433,mpvc_firerescf,Fire Rescue,Car (0),Normal (0),153.6 km/h
+25489,mplc_firetowt,Fire Towtruck,Car (0),Worker (4),105.6 km/h
+25490,mplc_firetruk,Fire Truck,Car (0),Normal (0),147.84 km/h
+25488,mplc_fireresc,Fire Truck,Car (0),Normal (0),153.6 km/h
+25487,mplc_firela,Fire Truck,Car (0),Normal (0),147.84 km/h
+25430,mpvc_firelaf,Fire Truck,Car (0),Normal (0),147.84 km/h
+25421,vcs_firetruk,Fire Truck,Car (0),Normal (0),147.84 km/h
+25420,lcs_firetruk,Fire Truck,Car (0),Normal (0),147.84 km/h
+25366,cm_firetruk,Fire Truck,Car (0),Normal (0),147.84 km/h
+6758,bw_firetruk,Fire Truck,Car (0),Normal (0),147.84 km/h
+6690,mw_firetruk,Fire Truck,Car (0),Normal (0),147.84 km/h
+6689,at_firetruk,Fire Truck,Car (0),Normal (0),147.84 km/h
+6662,lc_firetruk,Fire Truck,Car (0),Normal (0),147.84 km/h
+6603,vc_firetruk,Fire Truck,Car (0),Normal (0),147.84 km/h
+544,firela,Fire Truck,Car (0),Normal (0),147.84 km/h
+407,firetruk,Fire Truck,Car (0),Normal (0),147.84 km/h
+565,flash,Flash,Car (0),Rich (2),164.4 km/h
+25390,lcs_flatbed,Flatbed,Car (0),Worker (4),157.2 km/h
+6604,vc_flatbed,Flatbed,Car (0),Worker (4),157.2 km/h
+6560,lc_flatbed,Flatbed,Car (0),Worker (4),157.2 km/h
+455,flatbed,Flatbed,Car (0),Worker (4),157.2 km/h
+965,lcs_forellicar,Forelli Exsess,Car (0),Rich (2),170.4 km/h
+25642,vcs_forklift,Forklift,Car (0),Worker (4),60 km/h
+6693,bw_forklift,Forklift,Car (0),Worker (4),60 km/h
+530,forklift,Forklift,Car (0),Worker (4),60 km/h
+526,fortune,Fortune,Car (0),Normal (0),157.44 km/h
+25690,lcs_freeway,Freeway,Bike (9),Motorcycle (8),156.72 km/h
+25640,vcs_freeway,Freeway,Bike (9),Motorcycle (8),156.72 km/h
+6605,vc_freeway,Freeway,Bike (9),Motorcycle (8),156.72 km/h
+463,freeway,Freeway,Bike (9),Motorcycle (8),156.72 km/h
+590,freibox,Freibox,Train (6),Normal (0),129.84 km/h
+569,freiflat,Freight,Train (6),Normal (0),129.84 km/h
+537,freight,Freight,Train (6),Normal (0),127.68 km/h
+25419,mp_friscobl,Frisco,Car (0),Normal (0),172.56 km/h
+612,vc_gangbur,Gang Burrito,Car (0),Normal (0),162.72 km/h
+2883,vc_gangran,Gang Rancher,Car (0),Normal (0),147.6 km/h
+6608,vc_glendale,Glendale,Car (0),Normal (0),146.64 km/h
+604,glenshit,Glendale,Car (0),Normal (0),146.64 km/h
+466,glendale,Glendale,Car (0),Normal (0),146.64 km/h
+6537,ug_hydrag,Golden Hydra,Plane (4),Normal (0),43.4404 km/h
+6264,ug_gonzo,Gonzo,Car (0),Normal (0),120.24 km/h
+25398,cm_greenwoo,Greenwood,Car (0),Poor (1),140.16 km/h
+6609,vc_greenwoo,Greenwood,Car (0),Poor (1),140.16 km/h
+492,greenwoo,Greenwood,Car (0),Poor (1),140.16 km/h
+6607,ug_greenwoo_r,Greenwood Racer,Car (0),Normal (0),214.32 km/h
+6273,mw_hako,Hako,Car (0),Worker (4),129.84 km/h
+25609,cc_hauler,Hauler,Car (0),Worker (4),110 km/h
+25486,mplc_firehzmt,Hazmat Firetruck,Car (0),Normal (0),147.84 km/h
+25432,mpvc_firehzmtf,Hazmat Firetruck,Car (0),Normal (0),147.84 km/h
+25401,lcs_hearse,Hearse,Car (0),Poor (1),132.48 km/h
+6783,sol_jamieshr,Heavy Rescue,Car (0),Worker (4),126 km/h
+6530,lcs_hellenbach,Hellenbach GT,Car (0),Poor (1),186 km/h
+25360,ug_hellrais,Hellraiser,Monstertruck (1),Normal (0),110 km/h
+25405,ug_henry,Henry,Car (0),Executive (3),105.84 km/h
+6610,vc_hermes,Hermes,Car (0),Rich (2),148.8 km/h
+474,hermes,Hermes,Car (0),Rich (2),148.8 km/h
+6792,lcs_hoods,Hoods Rumpo XL,Car (0),Poor (1),152.64 km/h
+614,lc_hoods,Hoods Rumpo XL,Car (0),Normal (0),152.64 km/h
+588,hotdog,Hotdog,Car (0),Worker (4),107.52 km/h
+434,hotknife,Hotknife,Car (0),Executive (3),166.56 km/h
+6613,vc_hotring,Hotring Racer,Car (0),Normal (0),214.32 km/h
+6612,vc_hotrinb,Hotring Racer,Car (0),Normal (0),214.32 km/h
+6611,vc_hotrina,Hotring Racer,Car (0),Normal (0),214.32 km/h
+503,hotrinb,Hotring Racer,Car (0),Normal (0),214.32 km/h
+502,hotrina,Hotring Racer,Car (0),Normal (0),214.32 km/h
+494,hotring,Hotring Racer,Car (0),Normal (0),214.32 km/h
+523,copbike,HPV1000,Bike (9),Normal (0),165.36 km/h
+4769,vc_hunter,Hunter,Helicopter (3),Normal (0),237.84 km/h
+425,hunter,Hunter,Helicopter (3),Normal (0),237.84 km/h
+579,huntley,Huntley,Car (0),Rich (2),157.44 km/h
+6262,ug_huntleys,Huntley S,Car (0),Rich (2),163.92 km/h
+545,hustler,Hustler,Car (0),Normal (0),146.64 km/h
+520,hydra,Hydra,Plane (4),Normal (0),43.4404 km/h
+25371,sab_idaho,Idaho,Car (0),Normal (0),163.92 km/h
+1202,lc_idaho,Idaho,Car (0),Poor (1),125.04 km/h
+1198,vc_idaho,Idaho,Car (0),Normal (0),125.04 km/h
+6615,vc_infernus,Infernus,Car (0),Executive (3),238.08 km/h
+6561,lc_infernus,Infernus,Car (0),Executive (3),226.56 km/h
+411,infernus,Infernus,Car (0),Executive (3),221.04 km/h
+25466,ug_insurrection,Insurrection,Car (0),Rich (2),185.76 km/h
+25692,mw_interstate,Interstate,Car (0),Worker (4),105.6 km/h
+546,intruder,Intruder,Car (0),Normal (0),148.8 km/h
+559,jester,Jester,Car (0),Rich (2),177.36 km/h
+6767,vc_jetmax,Jetmax,Boat (5),Normal (0),85.4403 km/h
+493,jetmax,Jetmax,Boat (5),Normal (0),85.4403 km/h
+508,journey,Journey,Car (0),Worker (4),107.52 km/h
+25548,mw_juliette,Juliette,Car (0),Rich (2),143.52 km/h
+6782,sol_kutt,K.U.T.T,Car (0),Normal (0),170.88 km/h
+25520,bw_kart,Kart,Car (0),Normal (0),92.8801 km/h
+571,kart,Kart,Car (0),Normal (0),92.8801 km/h
+999,vc_kaufman,Kaufman Cab,Car (0),Taxi (6),168.24 km/h
+25404,cm_kuruma,Kuruma,Car (0),Rich (2),170.4 km/h
+25384,lcs_kuruma,Kuruma,Car (0),Normal (0),148.8 km/h
+1201,lc_kuruma,Kuruma,Car (0),Normal (0),141.36 km/h
+25686,cc_landstal,Landstalker,Car (0),Normal (0),157.44 km/h
+3223,lcs_landstal,Landstalker,Car (0),Rich (2),150.96 km/h
+6617,vc_landstal,Landstalker,Car (0),Normal (0),157.44 km/h
+1699,lc_monstros,Landstalker,Car (0),Normal (0),155.04 km/h
+400,landstal,Landstalker,Car (0),Normal (0),157.44 km/h
+595,launch,Launch,Boat (5),Boat - leisure (9),59.5203 km/h
+3247,lc_copbike,LCPD WinterGreen,Bike (9),Normal (0),156.72 km/h
+25378,lcc_learjet,Learjet,Plane (4),Normal (0),69.3604 km/h
+417,leviathn,Leviathan,Helicopter (3),Normal (0),237.84 km/h
+25444,mp_lifeguard,Lifeguard,Car (0),Normal (0),143.52 km/h
+6618,vc_linerun,Linerunner,Car (0),Worker (4),109.44 km/h
+6563,lc_linerun,Linerunner,Car (0),Worker (4),109.44 km/h
+403,linerun,Linerunner,Car (0),Worker (4),109.44 km/h
+6663,vc_litwil,Little Willie,Helicopter (3),Normal (0),237.84 km/h
+25550,mw_lobodonk,Lobo Donk,Car (0),Executive (3),163.68 km/h
+25666,mw_lokus,Lokus,Car (0),Rich (2),168.96 km/h
+1197,vc_lovefist,Love Fist,Car (0),Executive (3),142.56 km/h
+6694,cc_luton,Luton,Car (0),Worker (4),105.36 km/h
+25385,lcs_mafiab,Mafia Sentinel,Car (0),Rich (2),164.4 km/h
+665,lc_mafia,Mafia Sentinel,Car (0),Rich (2),164.4 km/h
+517,majestic,Majestic,Car (0),Poor (1),156.96 km/h
+25410,mp_majesticr,Majestic Racer,Car (0),Normal (0),214.32 km/h
+25383,lcs_manana,Manana,Car (0),Normal (0),129.36 km/h
+25370,lc_corpse,Manana,Car (0),Poor (1),127.68 km/h
+6620,vc_manana,Manana,Car (0),Poor (1),127.68 km/h
+6565,lc_manana,Manana,Car (0),Poor (1),127.68 km/h
+410,manana,Manana,Car (0),Poor (1),129.36 km/h
+1205,lc_manchez,Manchez,Bike (9),Motorcycle (8),156.72 km/h
+6768,vc_marquis,Marquis,Boat (5),Boat - worker (10),33.6003 km/h
+484,marquis,Marquis,Boat (5),Boat - worker (10),33.6003 km/h
+6687,sol_clovmon,Marshall,Monstertruck (1),Normal (0),110 km/h
+4776,lc_catalmav,Maverick,Helicopter (3),Normal (0),237.84 km/h
+4770,vc_maverick,Maverick,Helicopter (3),Normal (0),237.84 km/h
+487,maverick,Maverick,Helicopter (3),Normal (0),237.84 km/h
+551,merit,Merit,Car (0),Rich (2),156.96 km/h
+25685,mw_mesa,Mesa,Car (0),Normal (0),145.2 km/h
+6621,vc_mesa,Mesa,Car (0),Normal (0),140.16 km/h
+500,mesa,Mesa,Car (0),Normal (0),140.16 km/h
+25448,cm_militia_enf,Militia Enforcer,Car (0),Normal (0),165.12 km/h
+6271,mw_mjolnir,Mjolnir,Bike (9),Motorcycle (8),161.28 km/h
+6526,lc_monster,Monster,Car (0),Normal (0),110 km/h
+557,monsterb,Monster,Monstertruck (1),Normal (0),110 km/h
+556,monstera,Monster,Monstertruck (1),Normal (0),110 km/h
+444,monster,Monster,Monstertruck (1),Normal (0),110 km/h
+6622,vc_moonbeam,Moonbeam,Car (0),Normal (0),115.2 km/h
+6566,lc_moonbeam,Moonbeam,Car (0),Normal (0),115.2 km/h
+418,moonbeam,Moonbeam,Car (0),Normal (0),115.2 km/h
+25509,bw_racer,Mountain Bike,BMX (10),Bicycle (11),71.0401 km/h
+25507,bw_mtbike,Mountain Bike,BMX (10),Bicycle (11),67.4401 km/h
+510,mtbike,Mountain Bike,BMX (10),Bicycle (11),109.68 km/h
+6789,bw_mower,Mower,Car (0),Normal (0),60 km/h
+572,mower,Mower,Car (0),Normal (0),60 km/h
+666,lc_mrwong,Mr Wong,Car (0),Worker (4),99.3602 km/h
+6623,vc_mrwhoop,Mr. Whoopee,Car (0),Worker (4),98.4002 km/h
+6567,lc_mrwhoop,Mr. Whoopee,Car (0),Worker (4),98.4002 km/h
+423,mrwhoop,Mr. Whoopee,Car (0),Worker (4),98.4002 km/h
+25519,cm_mule2,Mule,Car (0),Worker (4),105.36 km/h
+25518,cm_mule,Mule,Car (0),Worker (4),105.36 km/h
+6625,vc_mule2,Mule,Car (0),Worker (4),105.36 km/h
+6624,vc_mule,Mule,Car (0),Worker (4),105.36 km/h
+6568,lc_mule,Mule,Car (0),Worker (4),105.36 km/h
+414,mule,Mule,Car (0),Worker (4),105.36 km/h
+516,nebula,Nebula,Car (0),Poor (1),156.96 km/h
+553,nevada,Nevada,Plane (4),Normal (0),62.8804 km/h
+4798,ul_ulnmav,News Chopper,Helicopter (3),Normal (0),237.84 km/h
+4797,mll_mllnmav,News Chopper,Helicopter (3),Normal (0),237.84 km/h
+4796,lc_lcnmav,News Chopper,Helicopter (3),Normal (0),237.84 km/h
+4795,cm_cmnmav,News Chopper,Helicopter (3),Normal (0),237.84 km/h
+4794,cc_ccnmav,News Chopper,Helicopter (3),Normal (0),237.84 km/h
+4793,bw_bwnmav,News Chopper,Helicopter (3),Normal (0),237.84 km/h
+4792,at_atnmav,News Chopper,Helicopter (3),Normal (0),237.84 km/h
+5694,vc_vcnmav,News Chopper,Helicopter (3),Normal (0),237.84 km/h
+488,vcnmav,News Chopper,Helicopter (3),Normal (0),237.84 km/h
+5695,vc_vcnvan,Newsvan,Car (0),Normal (0),135.84 km/h
+582,newsvan,Newsvan,Car (0),Normal (0),135.84 km/h
+1206,lc_noodleboy,Noodleboy,Bike (9),Normal (0),122.16 km/h
+522,nrg500,NRG-500,Bike (9),Motorcycle (8),191.28 km/h
+6794,sol_nrg500f,NRG-500F,Bike (9),Motorcycle (8),177.84 km/h
+6795,sol_nrg500rr,NRG-500RR,Bike (9),Motorcycle (8),298.08 km/h
+6626,vc_oceanic,Oceanic,Car (0),Poor (1),172.56 km/h
+467,oceanic,Oceanic,Car (0),Normal (0),140.16 km/h
+25555,mw_ontario,Ontario,Car (0),Normal (0),156.72 km/h
+25554,mw_cntario,Ontario,Car (0),Taxi (6),156.72 km/h
+25549,mw_lazer,P-996 LAZER,Plane (4),Normal (0),200 km/h
+6627,vc_packer,Packer,Car (0),Worker (4),126 km/h
+443,packer,Packer,Car (0),Worker (4),126 km/h
+25386,lcs_panlant,Panlantic,Car (0),Normal (0),105.36 km/h
+6529,lc_panlant,Panlantic,Car (0),Worker (4),109.92 km/h
+25643,vcs_patriot,Patriot,Car (0),Normal (0),172.32 km/h
+25612,mw_patriot,Patriot,Car (0),Normal (0),172.32 km/h
+25494,cc_patriot,Patriot,Car (0),Normal (0),156.48 km/h
+6628,vc_patriot,Patriot,Car (0),Normal (0),172.32 km/h
+6569,lc_patriot,Patriot,Car (0),Normal (0),172.08 km/h
+470,patriot,Patriot,Car (0),Normal (0),156.48 km/h
+3224,lcs_pcj600,PCJ-600,Bike (9),Motorcycle (8),176.16 km/h
+6629,vc_pcj600,PCJ-600,Bike (9),Motorcycle (8),176.16 km/h
+461,pcj600,PCJ-600,Bike (9),Motorcycle (8),176.16 km/h
+25380,lcs_peren,Perennial,Car (0),Poor (1),132.48 km/h
+6630,vc_peren,Perennial,Car (0),Poor (1),132.48 km/h
+6570,lc_peren,Perennial,Car (0),Poor (1),132.48 km/h
+404,peren,Perennial,Car (0),Poor (1),132.48 km/h
+584,petrotr,Petrol Truck,Trailer (11),Normal (0),141.84 km/h
+6661,lc_phobos,Phobos VT,Car (0),Executive (3),170.88 km/h
+6631,vc_phoenix,Phoenix,Car (0),Normal (0),170.88 km/h
+603,phoenix,Phoenix,Car (0),Normal (0),170.88 km/h
+600,picador,Picador,Car (0),Normal (0),150.48 km/h
+25418,mp_picadorr,Picador Racer,Car (0),Normal (0),214.32 km/h
+25577,lcs_pizzaboy,Pizzaboy,Bike (9),Normal (0),122.16 km/h
+6632,vc_pizzaboy,Pizzaboy,Bike (9),Normal (0),122.16 km/h
+448,pizzaboy,Pizzaboy,Bike (9),Normal (0),122.16 km/h
+25406,mp_polaris,Polaris Racer,Car (0),Normal (0),214.32 km/h
+3140,vc_polaris,Polaris V8,Car (0),Normal (0),173.04 km/h
+25689,vcb_copcarvcb,Police,Car (0),Normal (0),186 km/h
+25395,mw_copcarmw2,Police,Car (0),Normal (0),175.2 km/h
+4780,ul_copcarul,Police,Car (0),Normal (0),148.8 km/h
+6754,bw_copcarbw,Police,Car (0),Normal (0),140.64 km/h
+6703,at_copcarat,Police,Car (0),Normal (0),175.2 km/h
+6697,lcs_copcarlc,Police,Car (0),Normal (0),180 km/h
+6685,mw_copcarmw1,Police,Car (0),Normal (0),173.04 km/h
+6263,ug_patrol,Police,Car (0),Normal (0),185.04 km/h
+6260,ul_copcarul2,Police,Car (0),Normal (0),175.2 km/h
+5702,cm_copcarcm,Police,Car (0),Normal (0),186 km/h
+5701,cc_copcarcc,Police,Car (0),Normal (0),180 km/h
+1573,vc_copcarvc,Police,Car (0),Normal (0),186 km/h
+1326,lc_copcarlc,Police,Car (0),Normal (0),180 km/h
+598,copcarvg,Police,Car (0),Normal (0),175.2 km/h
+597,copcarsf,Police,Car (0),Normal (0),175.2 km/h
+596,copcarla,Police,Car (0),Normal (0),175.2 km/h
+4778,cc_polarm,Police Armadillo,Helicopter (3),Normal (0),237.84 km/h
+25363,at_polmav,Police Maverick,Helicopter (3),Normal (0),237.84 km/h
+25362,mw_polmav,Police Maverick,Helicopter (3),Normal (0),237.84 km/h
+25358,sf_polmav,Police Maverick,Helicopter (3),Normal (0),237.84 km/h
+25357,lv_polmav,Police Maverick,Helicopter (3),Normal (0),237.84 km/h
+25356,ls_polmav,Police Maverick,Helicopter (3),Normal (0),237.84 km/h
+4781,ul_polmav,Police Maverick,Helicopter (3),Normal (0),237.84 km/h
+5696,cm_polmav,Police Maverick,Helicopter (3),Normal (0),237.84 km/h
+5101,lc_polmav,Police Maverick,Helicopter (3),Normal (0),237.84 km/h
+5100,vc_polmav,Police Maverick,Helicopter (3),Normal (0),237.84 km/h
+497,polmav,Police Maverick,Helicopter (3),Normal (0),237.84 km/h
+25394,bw_copbike,Police Motorcycle,Bike (9),Normal (0),165.36 km/h
+25462,mw_copbike,Police Wayfarer,Bike (9),Motorcycle (8),156.72 km/h
+25512,vcs_pony,Pony,Car (0),Worker (4),109.92 km/h
+25387,lcs_pony,Pony,Car (0),Worker (4),109.92 km/h
+6634,vc_pony,Pony,Car (0),Worker (4),109.92 km/h
+6571,lc_pony,Pony,Car (0),Worker (4),109.92 km/h
+413,pony,Pony,Car (0),Worker (4),109.92 km/h
+6686,sol_posher,Posher,Car (0),Executive (3),157.68 km/h
+25481,cm_predator,Predator,Boat (5),Normal (0),61.6803 km/h
+25465,mw_predator,Predator,Boat (5),Normal (0),40.0803 km/h
+6769,vc_predator,Predator,Boat (5),Normal (0),63.8403 km/h
+6667,lc_predator,Predator,Boat (5),Normal (0),63.8403 km/h
+430,predator,Predator,Boat (5),Normal (0),63.8403 km/h
+25584,cc_premier,Premier,Car (0),Normal (0),175.2 km/h
+25551,mw_premier,Premier,Car (0),Rich (2),173.04 km/h
+426,premier,Premier,Car (0),Rich (2),173.04 km/h
+4803,ug_stanier_r,Premier Racer,Car (0),Normal (0),214.32 km/h
+436,previon,Previon,Car (0),Poor (1),148.8 km/h
+547,primo,Primo,Car (0),Normal (0),142.32 km/h
+25575,mw_prisonbus,Prison Bus,Car (0),Normal (0),130.08 km/h
+25368,cc_prisonbus,Prison Bus,Car (0),Normal (0),130.08 km/h
+25543,mw_prcanyon,Prison Canyon,Car (0),Normal (0),143.52 km/h
+25614,cc_python,Python,Car (0),Executive (3),202.32 km/h
+25517,vcs_quad,Quadbike,Quad (2),Normal (0),115.2 km/h
+471,quad,Quadbike,Quad (2),Normal (0),109.92 km/h
+563,raindanc,Raindance,Helicopter (3),Normal (0),237.84 km/h
+6635,vc_rancher,Rancher,Car (0),Normal (0),139.2 km/h
+505,rnchlure,Rancher,Car (0),Normal (0),139.2 km/h
+489,rancher,Rancher,Car (0),Normal (0),139.2 km/h
+4788,de_copcarru,Ranger,Car (0),Normal (0),157.44 km/h
+599,copcarru,Ranger,Car (0),Normal (0),157.44 km/h
+25443,lc_rcbandit,RC Bandit,Car (0),Normal (0),75.0001 km/h
+25441,vc_rcbandit,RC Bandit,Car (0),Normal (0),75.0001 km/h
+25438,lcs_rcbandit,RC Bandit,Car (0),Normal (0),75.0001 km/h
+441,rcbandit,RC Bandit,Car (0),Normal (0),75.0001 km/h
+25442,vc_rcbaron,RC Baron,Plane (4),Normal (0),3.60009 km/h
+464,rcbaron,RC Baron,Plane (4),Normal (0),3.60009 km/h
+594,rccam,RC Cam,Car (0),Normal (0),60 km/h
+25439,vc_rcgoblin,RC Goblin,Helicopter (3),Normal (0),87.8401 km/h
+501,rcgoblin,RC Goblin,Helicopter (3),Normal (0),87.8401 km/h
+25440,vc_rcraider,RC Raider,Helicopter (3),Normal (0),87.8401 km/h
+465,rcraider,RC Raider,Helicopter (3),Normal (0),87.8401 km/h
+564,rctiger,RC Tiger,Car (0),Normal (0),87.8401 km/h
+25687,cc_reagan,Reagan,Car (0),Poor (1),171.6 km/h
+6796,bw_reagan,Reagan,Car (0),Normal (0),165.6 km/h
+6701,mw_rebla,Rebla,Car (0),Rich (2),152.64 km/h
+6259,ul_redwoo,Redwood,Car (0),Normal (0),140.16 km/h
+25511,cm_reefer,Reefer,Boat (5),Boat - worker (10),40.0803 km/h
+6770,vc_reefer,Reefer,Boat (5),Boat - worker (10),40.0803 km/h
+6668,lc_reefer,Reefer,Boat (5),Boat - worker (10),40.0803 km/h
+453,reefer,Reefer,Boat (5),Boat - worker (10),40.0803 km/h
+3251,bw_regina,Regina,Car (0),Normal (0),139.68 km/h
+6266,cc_regina,Regina,Car (0),Normal (0),139.68 km/h
+6636,vc_regina,Regina,Car (0),Normal (0),139.68 km/h
+479,regina,Regina,Car (0),Normal (0),139.68 km/h
+534,remingtn,Remington,Car (0),Executive (3),168.24 km/h
+6572,lc_rhino,Rhino,Car (0),Normal (0),93.8401 km/h
+432,rhino,Rhino,Car (0),Normal (0),93.8401 km/h
+6771,vc_rio,Rio,Boat (5),Boat - leisure (9),33.6003 km/h
+515,rdtrain,Roadtrain,Car (0),Worker (4),141.84 km/h
+4787,sol_roamer,Roamer,Bike (9),Motorcycle (8),156.72 km/h
+4786,sf_copbike,Roamer,Bike (9),Normal (0),156.72 km/h
+4785,sa_copbike,Roamer,Bike (9),Normal (0),156.72 km/h
+4784,lv_copbike,Roamer,Bike (9),Normal (0),156.72 km/h
+4783,cc_copbike,Roamer,Bike (9),Normal (0),156.72 km/h
+25461,vc_romero,Romero,Car (0),Normal (0),130.32 km/h
+442,romero,Romero,Car (0),Normal (0),138.96 km/h
+25647,cc_rumpo,Rumpo,Car (0),Normal (0),160.08 km/h
+6791,lcs_rumpo,Rumpo,Car (0),Poor (1),135.84 km/h
+6669,lc_rumpo,Rumpo,Car (0),Poor (1),135.84 km/h
+6637,vc_rumpo,Rumpo,Car (0),Poor (1),135.84 km/h
+440,rumpo,Rumpo,Car (0),Poor (1),135.84 km/h
+476,rustler,Rustler,Plane (4),Normal (0),62.8804 km/h
+601,swatvan,S.W.A.T.,Car (0),Big (5),110 km/h
+6638,vc_sabre,Sabre,Car (0),Normal (0),172.56 km/h
+475,sabre,Sabre,Car (0),Normal (0),172.56 km/h
+25412,mp_sabrer,Sabre Racer,Car (0),Normal (0),214.32 km/h
+795,vc_sabretur,Sabre Turbo,Car (0),Normal (0),179.28 km/h
+6261,cc_sadler,Sadler,Car (0),Normal (0),150.48 km/h
+605,sadlshit,Sadler,Car (0),Normal (0),150.48 km/h
+543,sadler,Sadler,Car (0),Normal (0),150.48 km/h
+6640,vc_sanchez,Sanchez,Bike (9),Motorcycle (8),156.72 km/h
+468,sanchez,Sanchez,Bike (9),Motorcycle (8),156.72 km/h
+6641,vc_sandking,Sandking,Car (0),Normal (0),167.28 km/h
+495,sandking,Sandking,Car (0),Normal (0),175.92 km/h
+25688,cc_savanna,Savanna,Car (0),Poor (1),172.56 km/h
+567,savanna,Savanna,Car (0),Poor (1),172.56 km/h
+25552,mw_schafter,Schafter,Car (0),Rich (2),168.96 km/h
+6265,cc_schafter,Schafter ES,Car (0),Rich (2),166.32 km/h
+25367,lcb_schoolbus,Schoolbus,Car (0),Normal (0),130.08 km/h
+6691,bw_bus,Schoolbus,Car (0),Normal (0),130.08 km/h
+4771,vc_seaspar,Seasparrow,Helicopter (3),Normal (0),237.84 km/h
+447,seaspar,Seasparrow,Helicopter (3),Normal (0),237.84 km/h
+25377,cc_securica,Securicar,Car (0),Big (5),156.48 km/h
+6642,vc_securica,Securicar,Car (0),Big (5),156.48 km/h
+6573,lc_securica,Securicar,Car (0),Big (5),156.48 km/h
+428,securica,Securicar,Car (0),Big (5),156.48 km/h
+6670,lc_sentinel,Sentinel,Car (0),Rich (2),163.44 km/h
+6643,vc_sentinel,Sentinel,Car (0),Rich (2),166.08 km/h
+405,sentinel,Sentinel,Car (0),Rich (2),163.44 km/h
+4804,ug_sentinel_r,Sentinel Racer,Car (0),Rich (2),163.44 km/h
+797,vc_sentxs,Sentinel XS,Car (0),Rich (2),169.44 km/h
+25369,vc_shamal,Shamal,Plane (4),Normal (0),69.3604 km/h
+519,shamal,Shamal,Plane (4),Normal (0),69.3604 km/h
+6798,sol_signum,Signum,Car (0),Normal (0),159.84 km/h
+1199,lc_sindaccocar,Sindacco,Car (0),Rich (2),192.96 km/h
+4772,vc_skimmer,Skimmer,Plane (4),Normal (0),17.5204 km/h
+460,skimmer,Skimmer,Plane (4),Normal (0),17.5204 km/h
+25606,mw_skimpy,Skimpy,Car (0),Worker (4),112.08 km/h
+535,slamvan,Slamvan,Car (0),Rich (2),157.44 km/h
+5092,lc_socialite,Socialite,Car (0),Rich (2),173.04 km/h
+5091,vc_socialite,Socialite,Car (0),Normal (0),165.6 km/h
+5090,ug_socialite,Socialite,Car (0),Rich (2),163.44 km/h
+458,solair,Solair,Car (0),Normal (0),156.96 km/h
+25417,mp_f1c,Sonic,Car (0),Normal (0),250 km/h
+25416,mp_f1b,Sonic,Car (0),Normal (0),250 km/h
+25415,mp_f1a,Sonic,Car (0),Normal (0),250 km/h
+25683,mw_steedvan,Spacevan,Car (0),Worker (4),140.88 km/h
+1196,vc_spand,Spand Express,Car (0),Worker (4),99.3602 km/h
+4773,vc_sparrow,Sparrow,Helicopter (3),Normal (0),237.84 km/h
+469,sparrow,Sparrow,Helicopter (3),Normal (0),237.84 km/h
+25537,lcs_speeder,Speeder,Boat (5),Boat - leisure (9),76.8003 km/h
+6772,vc_speeder,Speeder,Boat (5),Boat - leisure (9),76.8003 km/h
+6671,lc_speeder,Speeder,Boat (5),Boat - leisure (9),76.8003 km/h
+452,speeder,Speeder,Boat (5),Boat - leisure (9),76.8003 km/h
+6718,cc_speedo,Speedo,Car (0),Poor (1),160.08 km/h
+6657,vc_atv600,Splitz-6 ATV,Car (0),Normal (0),81.8401 km/h
+6773,vc_squalo,Squalo,Boat (5),Normal (0),85.4403 km/h
+446,squalo,Squalo,Boat (5),Normal (0),85.4403 km/h
+580,stafford,Stafford,Car (0),Normal (0),152.64 km/h
+25407,bw_stallion,Stallion,Car (0),Poor (1),168.24 km/h
+6646,vc_stallion,Stallion,Car (0),Poor (1),168.24 km/h
+6574,lc_stallion,Stallion,Car (0),Poor (1),168.24 km/h
+439,stallion,Stallion,Car (0),Poor (1),168.24 km/h
+25648,mw_stanier,Stanier,Car (0),Rich (2),185.04 km/h
+25376,cm_stanier,Stanier,Car (0),Normal (0),186 km/h
+6799,lc_stanier,Stanier,Car (0),Normal (0),180 km/h
+6760,bw_stanier,Stanier,Car (0),Normal (0),186 km/h
+6759,vc_stanier,Stanier,Car (0),Normal (0),186 km/h
+25607,mw_steed,Steed,Car (0),Worker (4),125.28 km/h
+4775,bw_stepfather,Stepfather,Car (0),Rich (2),163.44 km/h
+25435,cm_stinger,Stinger,Car (0),Executive (3),192.48 km/h
+25434,vcs_stinger,Stinger,Car (0),Executive (3),192.48 km/h
+6672,lc_stinger,Stinger,Car (0),Executive (3),192.48 km/h
+1194,vc_stinger,Stinger,Car (0),Executive (3),192.48 km/h
+561,stratum,Stratum,Car (0),Rich (2),153.6 km/h
+3139,vc_streetfighter,Streetfighter,Bike (9),Motorcycle (8),165.36 km/h
+6648,vc_stretch,Stretch,Car (0),Executive (3),157.68 km/h
+6575,lc_stretch,Stretch,Car (0),Executive (3),157.68 km/h
+409,stretch,Stretch,Car (0),Executive (3),157.68 km/h
+513,stunt,Stuntplane,Plane (4),Normal (0),52.0804 km/h
+25574,cc_trainr,Subway,Train (6),Normal (0),129.84 km/h
+25573,cc_trainf,Subway,Train (6),Normal (0),127.68 km/h
+25365,lc_trainr,Subway,Train (6),Normal (0),129.84 km/h
+6550,lc_trainf,Subway,Train (6),Normal (0),127.68 km/h
+560,sultan,Sultan,Car (0),Rich (2),168.72 km/h
+6258,mw_sultanrs,Sultan RS,Car (0),Rich (2),173.04 km/h
+550,sunrise,Sunrise,Car (0),Normal (0),144.48 km/h
+25553,mw_diamond,Super Diamond,Car (0),Rich (2),156 km/h
+506,supergt,Super GT,Car (0),Executive (3),178.8 km/h
+574,sweeper,Sweeper,Car (0),Worker (4),60 km/h
+566,tahoma,Tahoma,Car (0),Rich (2),159.6 km/h
+25411,mp_tahomar,Tahoma Racer,Car (0),Normal (0),214.32 km/h
+25381,mh_tailgater,Tailgater,Car (0),Rich (2),156.96 km/h
+25585,cc_tampa,Tampa,Car (0),Poor (1),156 km/h
+549,tampa,Tampa,Car (0),Poor (1),153.12 km/h
+514,petro,Tanker,Car (0),Worker (4),120 km/h
+25572,mw_taxi,Taxi,Car (0),Taxi (6),173.04 km/h
+25373,cm_taxi,Taxi,Car (0),Taxi (6),144.72 km/h
+6761,bw_taxi,Taxi,Car (0),Taxi (6),144.72 km/h
+6659,lc_taxi,Taxi,Car (0),Taxi (6),144.72 km/h
+6649,vc_taxi,Taxi,Car (0),Taxi (6),144.72 km/h
+420,taxi,Taxi,Car (0),Taxi (6),144.72 km/h
+25646,mw_texas,Texas,Car (0),Normal (0),147.6 km/h
+6660,lc_thunder,Thunder Rodd,Car (0),Executive (3),152.64 km/h
+4799,lcs_tommy,Tommy,Car (0),Executive (3),147.36 km/h
+25513,vcs_topfun,Top Fun,Car (0),Normal (0),135.84 km/h
+6650,vc_topfun,Top Fun,Car (0),Normal (0),135.84 km/h
+576,tornado,Tornado,Car (0),Poor (1),157.44 km/h
+6790,sol_towtruck,Towtruck,Car (0),Worker (4),109.68 km/h
+525,towtruck,Towtruck,Car (0),Worker (4),160 km/h
+25388,lcs_toyz,Toyz,Car (0),Worker (4),109.92 km/h
+1203,lc_toyz,Toyz,Car (0),Worker (4),109.92 km/h
+531,tractor,Tractor,Car (0),Normal (0),70.0001 km/h
+25463,ug_swtrailer,Trailer,Trailer (11),Normal (0),141.84 km/h
+449,tram,Tram,Train (6),Normal (0),177.84 km/h
+25400,mp_tranquility,Tranquility,Car (0),Big (5),175.92 km/h
+25644,mw_transit,Transit,Car (0),Normal (0),135.36 km/h
+25556,mw_trash,Trashmaster,Car (0),Worker (4),103.44 km/h
+25496,cm_trash,Trashmaster,Car (0),Worker (4),99.6001 km/h
+25495,cc_trash,Trashmaster,Car (0),Worker (4),99.6001 km/h
+6651,vc_trash,Trashmaster,Car (0),Worker (4),99.6001 km/h
+6576,lc_trash,Trashmaster,Car (0),Worker (4),99.6001 km/h
+408,trash,Trashmaster,Car (0),Worker (4),99.6001 km/h
+6695,lc_triads,Triads Mule,Car (0),Worker (4),105.36 km/h
+6774,vc_tropic,Tropic,Boat (5),Boat - leisure (9),57.3603 km/h
+454,tropic,Tropic,Boat (5),Boat - leisure (9),57.3603 km/h
+25425,cc_tuff,Tuff,Car (0),Worker (4),128.16 km/h
+583,tug,Tug,Car (0),Normal (0),85.2003 km/h
+608,tugstair,Tugstair,Trailer (11),Normal (0),99.1202 km/h
+25492,vcc_turismo,Turismo,Car (0),Executive (3),192.96 km/h
+451,turismo,Turismo,Car (0),Executive (3),192.96 km/h
+6720,sol_ufo,UFO,Plane (4),Normal (0),43.4404 km/h
+558,uranus,Uranus,Car (0),Rich (2),155.76 km/h
+611,utiltr1,Utility Trailer,Trailer (11),Normal (0),99.1202 km/h
+552,utility,Utility Van,Car (0),Worker (4),120.72 km/h
+6658,lcs_v8ghost,V8 Ghost,Car (0),Executive (3),205.44 km/h
+25668,cc_imperator,V8 Imperator,Car (0),Normal (0),176.16 km/h
+25667,cc_vanderlind,VanderLinde,Car (0),Normal (0),126.72 km/h
+3416,bw_vaquero,Vaquero,Car (0),Normal (0),139.2 km/h
+1195,vc_vicechee,VCPD Cheetah,Car (0),Executive (3),191.76 km/h
+3136,vc_copwinter,VCPD WinterGreen,Bike (9),Motorcycle (8),156.72 km/h
+25649,mw_veloce,Veloce,Car (0),Executive (3),201.84 km/h
+3137,vc_moped50,Ventoso,Bike (9),Moped (7),122.16 km/h
+540,vincent,Vincent,Car (0),Normal (0),148.8 km/h
+6551,vc_scarab,Violator,Boat (5),Boat - leisure (9),76.8003 km/h
+6652,vc_virgo,Virgo,Car (0),Normal (0),148.8 km/h
+491,virgo,Virgo,Car (0),Normal (0),148.8 km/h
+25586,cc_voodoo,Voodoo,Car (0),Poor (1),168.24 km/h
+25402,mp_vbloodr,Voodoo,Car (0),Normal (0),172.56 km/h
+25379,cm_voodoo,Voodoo,Car (0),Poor (1),168.24 km/h
+6704,at_voodoo,Voodoo,Car (0),Poor (1),168.24 km/h
+6653,vc_voodoo,Voodoo,Car (0),Poor (1),168.24 km/h
+412,voodoo,Voodoo,Car (0),Poor (1),168.24 km/h
+539,vortex,Vortex,Plane (4),Normal (0),13.6802 km/h
+4802,ul_walton,Walton,Car (0),Worker (4),124.56 km/h
+6654,vc_walton,Walton,Car (0),Worker (4),125.76 km/h
+478,walton,Walton,Car (0),Worker (4),117.36 km/h
+6269,mw_warthog,Warthog,Bike (9),Motorcycle (8),191.04 km/h
+6655,vc_washing,Washington,Car (0),Rich (2),153.36 km/h
+421,washing,Washington,Car (0),Rich (2),153.36 km/h
+586,wayfarer,Wayfarer,Bike (9),Motorcycle (8),156.72 km/h
+25587,cc_whistle,Whistle,Car (0),Normal (0),148.8 km/h
+529,willard,Willard,Car (0),Normal (0),148.8 km/h
+555,windsor,Windsor,Car (0),Executive (3),157.68 km/h
+2884,vc_wintergreen,Wintergreen,Bike (9),Motorcycle (8),156.72 km/h
+6700,mw_xenon,Xenon,Car (0),Executive (3),186 km/h
+796,lc_yakuza,Yakuza Stinger,Car (0),Executive (3),192.48 km/h
+25498,bw_yankeeb,Yankee,Car (0),Worker (4),126 km/h
+25497,bw_yankeea,Yankee,Car (0),Worker (4),126 km/h
+25382,mh_yankee,Yankee,Car (0),Worker (4),92.6402 km/h
+6656,vc_yankee,Yankee,Car (0),Worker (4),105.6 km/h
+6577,lc_yankee,Yankee,Car (0),Worker (4),105.6 km/h
+456,yankee,Yankee,Car (0),Worker (4),105.6 km/h
+662,lc_yardie,Yardie Lobo,Car (0),Executive (3),175.2 km/h
+6787,vc_yola,Yola,Boat (5),Boat - worker (10),77.8802 km/h
+554,yosemite,Yosemite,Car (0),Normal (0),143.52 km/h
+798,vc_zebra,Zebra,Car (0),Taxi (6),148.8 km/h
+25557,mw_zion,Zion,Car (0),Rich (2),174.24 km/h
+477,zr350,ZR-350,Car (0),Rich (2),186 km/h
