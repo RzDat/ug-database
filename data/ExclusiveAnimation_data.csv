@@ -1,0 +1,342 @@
+NAME,DESCRIPTION,CATEGORY
+360flip1,Self explanatory.,Actions
+360flip2,Self explanatory.,Actions
+adance1,A dance.,Dances
+adance10,A dance.,Dances
+adance11,A dance.,Dances
+adance12,A dance.,Dances
+adance13,A dance.,Dances
+adance14,A dance.,Dances
+adance15,A dance.,Dances
+adance16,A dance.,Dances
+adance2,A dance.,Dances
+adance3,A dance.,Dances
+adance4,A dance.,Dances
+adance5,A dance.,Dances
+adance6,A dance.,Dances
+adance7,A dance.,Dances
+adance8,A dance.,Dances
+adance9,A dance.,Dances
+anotherdeath,Another death animation.,Actions
+armedchoppersit,Idle machine gun animation.,Idles
+armedidle,Holding a gun by shoulder.,Idles
+babyanim1,Holding a baby.,Idles
+babyanim2,Alternative holding a baby.,Idles
+backflip,A back flip.,Actions
+backflip720,A 720 back flip.,Actions
+backflipsimple,A simple backflip.,Actions
+beachselfie,A beach selfie.,Idles
+biketrick1,A bike trick.,Actions
+biketrick2,A bike trick.,Actions
+biketrick3,A bike trick.,Actions
+biketrick4,A bike trick.,Actions
+bleeding_holder,Bleeding holder anim.,Actions
+bleeding_injured,Bleeding animation.,Actions
+bmxtrick1,A bmx trick.,Actions
+bmxtrick2,A bmx trick.,Actions
+bong,A hit from a bong anim.,Actions
+breakdance,Break dancing.,Dances
+burningdeath,Burning death anim.,Actions
+carcrash_nskill,Car crash anim.,Actions
+carcrash_pass,Self explanatory.,Actions
+carcrash_skilled,Skilled car crash anim.,Actions
+carhoodsit,Sitting on a hood of a car.,Idles
+carhoodsit2,Alt sitting on a hood of a car.,Idles
+carhook1,Prostitute animation in a car.,Actions
+carhook2,Self explanatory.,Actions
+carhook3,Self explanatory.,Actions
+carrycorpse_player,Carrying a player's corpse.,Actions
+clappinghands,A hand clapping anim.,Actions
+comeatme,Signal to come.,Idles
+continueflip,Self explanatory.,Actions
+cop_aimgun,A cop aiming a gun.,Idles
+cop_holdgun,Cop holding belt animation.,Idles
+copcrossarms,Cop crossing his arms.,Idles
+couchidle,Sitting on a couch idle.,Idles
+cover1,Cover anim.,Idles
+cover2,Cover anim.,Idles
+cover3,Cover anim.,Idles
+cover4,Cover anim.,Idles
+cover5,Cover anim.,Idles
+crossarmseat,Sitting in a cross arm position.,Idles
+cs_aim,Aiming animation.,"Cutscene, Actions"
+cs_aiminghandgun,Handgun aiming.,"Cutscene, Actions"
+cs_aimingrifle,Rifle aiming.,"Cutscene, Actions"
+cs_alerted,Alerted anim.,"Cutscene, Actions"
+cs_angryphonecall,Angry phone call anim.,"Cutscene, Actions"
+cs_angryphonecall2,Alternative angry phonecall.,"Cutscene, Actions"
+cs_benchsit,Sitting on a bench.,"Cutscene, Idles"
+cs_bleeding,Bleeding animation.,"Cutscene, Actions"
+cs_boxpractice,Boxing practice.,"Cutscene, Actions"
+cs_cocainesnort,Snorting coke.,"Cutscene, Actions"
+cs_dancebeat,Beat dancing.,"Cutscene, Dances"
+cs_dancehiphop,Hip hop dancing.,"Cutscene, Dances"
+cs_desksit,Desk sit anim.,Cutscene
+cs_djdance,DJ dancing.,"Cutscene, Dances"
+cs_djrecorddance,A DJ dance.,"Cutscene, Dances"
+cs_dontleave,Signalling not to leave.,Cutscene
+cs_eatfood,Food eating anim.,"Cutscene, Actions"
+cs_femmiedance,A female dance.,"Cutscene, Dances"
+cs_gangchat,Gang style talk.,Cutscene
+cs_getout,Self explanatory.,"Cutscene, Actions"
+cs_getup,Self explanatory.,"Cutscene, Actions"
+cs_guncheck,Gun check.,"Cutscene, Actions"
+cs_guncheck2,Alternative gun check.,"Cutscene, Actions"
+cs_handsuprelax,Relaxed hands up.,"Cutscene, Actions"
+cs_idletablechat,Self explanatory.,"Cutscene, Actions"
+cs_injured,Injured anim.,"Cutscene, Actions"
+cs_interrogation,Interrogation animation.,"Cutscene, Actions"
+cs_japchick,Self explanatory.,Cutscene
+cs_jazzdance,A funky dance.,"Cutscene, Dances"
+cs_jazzdance2,Alternative funky dance.,"Cutscene, Dances"
+cs_laugh,Laughing anim.,"Cutscene, Actions"
+cs_meditate,Self explanatory.,"Cutscene, Actions"
+cs_oldrelax,Old person relaxing.,"Cutscene, Actions"
+cs_partyhard,Party dancing.,"Cutscene, Dances"
+cs_phonecall,Self explanatory.,"Cutscene, Actions"
+cs_poledance,A stripper pole dance.,"Cutscene, Dances"
+cs_popdance,Pop dancing.,"Cutscene, Dances"
+cs_popdance2,Pop dancing.,"Cutscene, Dances"
+cs_relaxbenchtalk,A relaxed sitting talking anim.,"Cutscene, Actions"
+cs_relaxedidlesit,Relaxed sitting.,"Cutscene, Idles"
+cs_relaxedidlesit2,Alternative relaxed anim.,"Cutscene, Idles"
+cs_relaxntalk,Relaxing and talking.,"Cutscene, Actions"
+cs_relaxsit,Relaxed sitting.,"Cutscene, Actions"
+cs_relaxtable,Relaxing at a table.,"Cutscene, Idles"
+cs_relaxwalkt,Relaxed walk.,"Cutscene, Actions"
+cs_repairing,Reparing animation.,"Cutscene, Actions"
+cs_riptenpenny,Tenpenny death anim.,"Cutscene, Actions"
+cs_robodance,Robo style dancing.,"Cutscene, Dances"
+cs_sadsitchat,A sad sitting talking anim.,"Cutscene, Actions"
+cs_serioustalking,Talking in a serious manner.,"Cutscene, Actions"
+cs_sitchat,Sitting and talking.,"Cutscene, Actions"
+cs_sitchat,Sitting and chatting.,"Cutscene, Actions"
+cs_sitdiscuss,Sitting and talking.,"Cutscene, Actions"
+cs_sittalk,Sitting and talking.,"Cutscene, Actions"
+cs_sitwidechat,Wide chair sitting and chatting.,"Cutscene, Actions"
+cs_sneakpeak,Self explanatory.,Cutscene
+cs_standcchat,Standing up and talking.,"Cutscene, Actions"
+cs_stresssittalk,Stressful talking.,"Cutscene, Actions"
+cs_talk,Talking animation,"Cutscene, Actions"
+cs_talkingtoinjured,Talking to injured person.,"Cutscene, Actions"
+cs_tasktalk,Talking animation.,"Cutscene, Actions"
+cs_tieknee,Self explanatory.,"Cutscene, Actions"
+cs_tiesit,Sitting animation.,"Cutscene, Actions"
+cs_timetomeditate,Meditation anim.,"Cutscene, Actions"
+cs_timetotalk,Self explanatory.,"Cutscene, Actions"
+cs_videogame,Video game anim.,"Cutscene, Actions"
+cs_warmup,Self explanatory.,"Cutscene, Actions"
+cs_whack,Whack animation.,"Cutscene, Actions"
+cs_yogi2,Yoga anim.,"Cutscene, Actions"
+csinspectwep,Inspect a weapon,"Cutscene, Actions"
+cutesit,A sitting animation.,Idles
+dab,A dab.,Actions
+deadnewidle,Lying on the floor animation.,Idles
+deathback,Death from the back.,Actions
+deathfall,A falling death animation.,Actions
+deathfront,Death from the front.,Actions
+deathspin,A spinning death anim.,Actions
+decentfuckyou,Decent signal of displeasure.,Actions
+downbegger,Begging anim.,Actions
+drillmove,A drill acrobatic manuever.,Actions
+dropcorpse_player,Dropping a player's corpse.,Actions
+emptycash,Emptying a cash register.,Actions
+femmie_gunwk,Female gun walk anim.,Actions
+femmie_gunwk2,Alt female gun walk anim.,Actions
+femmie_idle1,Idle female anim.,Idles
+femmie_idle2,Alternative female idle anim.,Idles
+femmie_idlestance,Female idle.,Idles
+femmie_naughty,Self explanatory.,Actions
+femmie_playerwk,Female player walking anim.,Actions
+femmie_pose,Female pose.,Idles
+femmie_pose2,Female posing.,Idles
+femmie_pose3,Female posing.,Idles
+femmie_pose4,Female pose.,Idles
+femmie_pose5,Female pose.,Idles
+femmie_pose6,A female pose.,Idles
+femmie_pose7,Female posing.,Idles
+femmie_pose8,Female posing.,Idles
+femmie_pose9,Female posing.,Idles
+femmie_sit,A female sit anim.,Actions
+femmie_sit2,Female sitting.,Idles
+femmie_sit3,Female sitting.,Idles
+femmie_sit4,Female sitting.,Idles
+femmie_sit5,Female sitting.,Idles
+femmie_wepcr,Crouch animation.,Actions
+femmie_wkperiod,Old walk animation.,Actions
+femmierelaxed,Self explanatory.,Idles
+fish_idle,Fishing idle animation.,Actions
+fish_pull,Fishing pull animation.,Actions
+fish_struggle,Fishing struggle.,Actions
+fish_toss,Fishing toss anim.,Actions
+fishingidle,A fishing idle animation.,Idles
+freewayidle,Freeway bike idle.,Idles
+freewayidle2,Freeway bike idle.,Idles
+freewayidle3,Freeway bike idle.,Idles
+freewayidle4,Freeway bike idle.,Idles
+fuckoffpal,A gesture to signal displeasure.,Actions
+gearshift,Gear shifting in a car.,Actions
+glider_hang,Glider hanging.,Actions
+glider_loop,Glider loop.,Actions
+golf_high,Strong golf anim.,Actions
+golf_low,Low gold anim.,Actions
+golf_med,Medium golf anim.,Actions
+gs1,Gang sign.,Actions
+gs2,Gang sign.,Actions
+gs3,Gang sign.,Actions
+gs4,Gang sign.,Actions
+gs5,Gang sign.,Actions
+gs6,Gang sign.,Actions
+gs7,Gang sign.,Actions
+gs8,Gang sign.,Actions
+gs9,Gang sign.,Actions
+guitar_classical,Guitar animation.,Actions
+guitar_rock,Guitar animation.,Actions
+gunaim,Aiming gun.,Actions
+gunwalk,Walking with a gun.,Actions
+handaccuracy,Acrobatic handstand.,Actions
+handbreaking,Arm break animation.,Actions
+handsbehindurback,Hands behind back.,Actions
+handsnair,Hands in the air.,Actions
+handsonpistol,Hands on a pistol.,Idles
+handstand,A hand stand.,Actions
+handstand2,Alternative hand stand.,Actions
+handstand3,Alternative hand stand.,Actions
+handstand3finish,Hand stand finish.,Actions
+handstandyogis,Hand stand yoga style.,Actions
+handsupback,Hands behind back.,Actions
+handsupdairboi,Hastly hands up in the air.,Actions
+handsuponknee,Hands behind head on knees.,Actions
+handsuponknee_idle,Idle on knees.,Actions
+handsuponknee_stand,Standing hands behind head.,Actions
+hangingup,Hanging from a hook.,Idles
+hip_idle,A hip idle anim.,Idles
+hip_walk,Hip walking style.,Actions
+holder_aimathostage,Holder aiming at the hostage.,Actions
+holder_aimforward,Holder aiming forward.,Actions
+holder_holdmouth,Holder holding hostage's mouth.,Actions
+holder_idle,Hostage holder idle animation.,Actions
+holder_struggle,Hostage holder stuggling.,Actions
+holdonthewall,Acrobatic flag manuever.,Actions
+holyshitbackflip,An impressive backflip.,Actions
+hostage_idle,Hostage idle animation.,Actions
+hostage_struggle,Hostage struggling.,Actions
+idle_assault,Idle with assault rifle.,Idles
+idle_wheavy,Idle with a heavy weapon.,Idles
+idle_wphone,Idle with a phone.,Idles
+idle_wrifle,Idle with rifle.,Idles
+idle_wsheavy,Idle with heavy gun.,Idles
+idlehandback,Idle hands behind back.,Idles
+item_deposit,Self explanatory.,Actions
+item_holdncheck,Holding and checking an item.,Actions
+kickedupfeetcigar,Feet up with a cigar.,Idles
+kickurfootup,Sitting while feet up.,Idles
+knockedout,Knocked out animation.,Idles
+ladder_longdown,Ladder animation.,Actions
+ladder_longup,Ladder animation.,Actions
+ladder_shortdown,Ladder animation.,Actions
+ladder_shortup,Ladder animation.,Actions
+leanonobj,Leaning animation.,Idles
+longdab,A long dab gesture.,Actions
+lookalive,A familiar dance animation.,Actions
+marryme,A kneeling marry me position.,Actions
+mirrorselfie,Self explanatory.,Idles
+mirrorselfie2,Self explanatory.,Idles
+mirrorselfie3,Self explanatory.,Idles
+mirrorselfie4,Self explanatory.,Idles
+MisterVercetti,Tommy's slow walk anim.,Actions
+moonwalkmj,MJ's moonwalk dance.,Dances
+mopfloor,Mopping floor animation.,Actions
+nazisalute,A nazi salute.,Actions
+newchairsit,Sitting on a chair.,Actions
+newgwalk1,Alt gangster walking style.,Actions
+newgwalk2,New gangster walking style.,Actions
+niggaogloc,OG Loc's rapping animation.,Dances
+nrgtrick1,An nrg bike trick.,Actions
+nrgtrick2,An nrg bike trick.,Actions
+nrgtrick3,An nrg bike trick.,Actions
+nrgtrick4,An nrg bike trick.,Actions
+onehandstandmad,A handstand on one hand.,Actions
+oneloopflipper,Self explanatory.,Actions
+parkourfrontroll,Self explanatory.,Actions
+pickcorpse_player,Picking up a player's corpse.,Actions
+pkor1,Parkour anim.,Actions
+pkor2,Parkour anim.,Actions
+pkor3,Parkour anim.,Actions
+pkor4,Parkour anim.,Actions
+pkor5,Parkour anim.,Actions
+pkor6,Parkour anim.,Actions
+pkor7,Parkour anim.,Actions
+praythelord,Praying animation.,Actions
+probackflipdance,A back flip dance.,Actions
+psy,Psy's gangnam style dance.,Dances
+relaxedidlesit,Relaxed idle sitting.,Idles
+relaxfemmie1,alternative beach relaxing,Idles
+relaxfemmie2,Female beach relaxing.,Idles
+relaxfemmie3,female beach relaxing,Idles
+relaxfemmie4,Beach relaxing.,Idles
+relaxfemmieshot,female beach posing,Idles
+relaxseat,Relaxed seat.,Idles
+rnddoublebackflip,Double backflip.,Actions
+robocopdance,Robo cop dance.,Dances
+roundbabyround,Cartwheel and a bunch of flips.,Actions
+roundblansh,A front flip and a bunch of flips.,Actions
+salute,An army salute.,Actions
+selfie,A selfie animation.,Actions
+selfiewithbuddy,A selfie with a friend.,Actions
+slapforehead,A forehead slap animation.,Actions
+sneeze,Self explanatory.,Actions
+softbackflip,A backflip.,Actions
+spindeathleft,Spinning death from the left.,Actions
+spindeathright,Spinning death from the right.,Actions
+squat,Self explanatory.,Idles
+squat2,Self explanatory.,Idles
+starthandstand1,Self explanatory.,Actions
+sweetparkoured,Self explanatory.,Actions
+takeaphil,Pill swallowing anim.,Actions
+thumbsdown,Thumbs down.,Actions
+thumbsup,Thumbs up.,Actions
+toss_money,Self explanatory.,Actions
+umbrella_idle,Umbrella idle anim.,Actions
+umbrella_idle2,Alternative umbrella idle anim.,Actions
+umbrella_walk,Umbrella walking animation.,Actions
+umbrella_walk2,Alternative umbrella walking.,Actions
+upsidedownpush,Self explanatory.,Actions
+vccivilwalk,Civilian walking style.,Actions
+vchairsit,Sitting on a chair.,Idles
+virgindance,A familiar dance animation.,Dances
+virgindance10,A familiar dance animation.,Dances
+virgindance11,A familiar dance animation.,Dances
+virgindance12,A familiar dance animation.,Dances
+virgindance2,A familiar dance animation.,Dances
+virgindance3,A familiar dance animation.,Dances
+virgindance4,A familiar dance animation.,Dances
+virgindance5,A familiar dance animation.,Dances
+virgindance6,A familiar dance animation.,Dances
+virgindance7,A familiar dance animation.,Dances
+virgindance8,A familiar dance animation.,Dances
+virgindance9,A familiar dance animation.,Dances
+walk_fatnold,A fat and old walk anim.,Actions
+walk_wsheavy,Walk with a heavy gun.,Actions
+walkhandsback1,Self explanatory.,Actions
+walkhandsback2,Self explanatory.,Actions
+walkhandsback3,Self explanatory.,Actions
+walktough,Tough walking style.,Actions
+wallbacklflip,A wall backflip.,Actions
+wallflipparkour,Self explanatory.,Actions
+wallfrontflip,A wall front flip.,Actions
+wallsideflip,A wall side flip.,Actions
+warmup2,Self explanatory.,Actions
+widechairsit,Sitting on a wide chair.,Actions
+zombie_eat,Self explanatory.,Actions
+zombie_idle,Self explanatory.,Actions
+zombie_run,Self explanatory.,Actions
+zombie_run2,Self explanatory.,Actions
+zombie_walk,Self explanatory.,Actions
+zombie_walk2,Self explanatory.,Actions
+zombie_walk3,Self explanatory.,Actions
+zombie_walk4,Self explanatory.,Actions
+zombie_walk5,Self explanatory.,Actions
+zombie_walk6,Self explanatory.,Actions
+zombie_walk7,Self explanatory.,Actions
+zombie_walk8,Self explanatory.,Actions
