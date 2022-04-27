@@ -223,3 +223,16 @@ SET [GXT Name] = NULLIF([GXT Name], '-')
 
 GO
 
+CREATE TABLE VehicleColor
+(ID				SMALLINT
+CONSTRAINT vc_id_pk PRIMARY KEY NOT NULL,
+Color VARCHAR(50) NOT NULL)
+
+INSERT INTO VehicleColor
+			([ID],
+			[Color])
+SELECT [ID]
+      ,[COLOR]
+FROM [Underground].[dbo].[VehicleColor_data]
+
+GO
