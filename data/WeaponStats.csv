@@ -1,0 +1,149 @@
+﻿ID,Name,Magazine,Damage,Accuracy,Fire rate,Animation,Description,Type
+29000,SAB_AK47,30,30,0.5,4,rifle,"Regular AK47 with no stock, less accurate.",Assault Rifle
+29002,SAB_GLOCK,15,35,1.6,6,silenced,"semi-automatic pistol, big magazine, better damage, good accuracy.",Pistol
+29005,SAB_PSG1,5,200,1.25,30,sniper,SWAT issued sniper rifle.,Rifle
+29011,LC_AK47,30,30,0.6,4,rifle,Similar to SA AK47 but with different sound,Assault Rifle
+29013,LC_COLT45,15,25,1,6,colt45,could be removed due to similar appearance as SA counterpart,Pistol
+29014,LC_FLAME,500,25,,,flame,Same as SA counterpart,Heavy
+29016,LC_HEATSEAK,1,75,,,rocket,Same as SA counterpart,Heavy
+29017,LC_M16,60,45,0.8,2,rifle,Madman's M16.,Assault Rifle
+29020,LC_SHOTGUN,1,15,0.25,34,buddy,Less accurate but deals more damage.,Shotgun
+29021,LC_SNIPER,1,125,1.25,20,sniper,Identical to SA counterpart but with different scope and sound.,Rifle
+29022,LC_UZI,25,20,1.2,2,colt45,"Unique sound, can be duel wielded with max skills.",SMG
+29024,VC_BUDDYSHOT,7,10,2,30,buddy,"Semi-automatic, bigger magazine but less damage.",Shotgun
+29026,VC_SHOTGUN,1,10,1.4,32,shotgun,Similar to vanilla shotgun but different sound.,Shotgun
+29028,VC_COLT45,17,25,1,6,colt45,Very similar to SA counterpart with different sound.,Pistol
+29036,VC_LASER,7,125,1,26,sniper,"Very similar to LCS_LASER, will be changed in the future.",Rifle
+29037,VC_M4,30,30,1.1,3,rifle,"Shorter variant, slightly less accurate.",Assault Rifle
+29038,VC_M60,100,80,1.6,4,riflebad,Very similar to LCS_M60 but way better damage.,Heavy
+29040,VC_MINIGUN,500,140,1,1,flame,very similar to SA counterpart,Heavy
+29043,VC_MP5,30,25,1.2,3,uzi,very similar to SA counterpart but with different sound.,SMG
+29045,VC_PYTHON,6,150,1.35,30,deagle,Very similar to LCS_PYTHON with slightly better damage but lower fire rate.,Revolver
+29046,VC_ROCKETLA,1,75,,,rocket,very similar to SA counterpart,Heavy
+29047,VC_RUGER,25,30,1.8,4,rifle,ruger version with shortened barrel.,Assault Rifle
+29049,VC_SPAS12,7,15,1.2,6,buddy,Semi-auto shotgun with faster fire rate.,Shotgun
+29050,VC_SNIPERRIFLE,1,125,1,30,sniper,"Very similar to SA counterpart, will be chnaged in the future.",Rifle
+29052,VC_TEC9,50,20,1,4,colt45,"Very similar to SA counterpart, different sound.",SMG
+29053,VC_UZI,32,25,1.2,4,uzi,"Buttstock, bigger magazine",SMG
+29054,VC_WRUGER,25,30,0.8,4,rifle,"70’s light assault rifle, small magazine, medium accuracy",Assault Rifle
+29055,VCB_COLTSIL,7,45,1.5,10,colt45,"Silenced pistol, can be duel wielded with max skill. ",Pistol
+29057,VCB_INGRAM_SILENCED,30,20,1.1,2,colt45,very similar to VCS_INGRAM but can be duel wielded.,SMG
+29058,VCB_MP5SHORT,20,25,1.3,3,uzi,Less accuracy and smaller clip size.,SMG
+29059,VCB_NAILGUN,50,10,2,3,silenced,"Low damage, high RPM. ",Special Pistol
+29060,VCB_STAPLEG,75,5,2.5,2,silenced,"Staple gun - super low damage, low range but high RPM. ",Special Pistol
+29061,VCB_STEYR_AUG,42,30,0.6,4,sniper,Assault Rifle with scope,Assault Rifle
+29080,LCS_GLOCK17,15,25,1,6,colt45,Very similiar to vanilla pistol.,Pistol
+29081,LCS_PYTHON,6,100,1.35,18,deagle,".44 magnum, medium damage & fire rate.",Revolver
+29082,LCS_AK47,25,30,0.6,4,rifle,exactly the same as VCS_AK47 but with slightly smaller magazine.,Assault Rifle
+29083,LCS_SHOTGUN,1,10,0.25,34,shotgun,Shotgun with similar stats to vanila but with different sound.,Shotgun
+29084,LCS_SPAS12,7,15,1.2,6,buddy,Similar stats to VC_SPAS12,Shotgun
+29085,LCS_BUDDYSHOT,4,15,1,12,buddy,"Semi-automatic,  very short version, tiny magazine.",Shotgun
+29086,LCS_M4,30,30,1,3,rifle,Bigger magazine and higher firerate.,Assault Rifle
+29087,LCS_TEC9,36,20,1.5,4,silenced,"Different animation, smaller clip size and higher accuracy.",SMG
+29088,LCS_UZI,25,30,1.2,3,uzi,Higher damage than VCS_UZI,SMG
+29089,LCS_INGRAM,32,25,1.5,2,silenced,"Folded stock, silenced animations.",SMG
+29090,LCS_MP5K,30,25,1.4,3,uzi,Highest accuracy.,SMG
+29091,VCS_M21,10,125,1.25,26,sniper,"Exactly the same as LCS_M21, will be changed in the future.",Rifle
+29092,LCS_LASER,5,200,1.25,30,sniper,Suppressed sniper.,Rifle
+29093,LCS_ROCKETLA,1,75,,,rocket,Same as SA counterpart,Heavy
+29095,LCS_M60,100,40,2,4,riflebad,Heavy Machine gun.,Heavy
+29096,LCS_MINIGUN,500,140,1,1,flame,Identical to VCS_MINIGUN,Heavy
+29114,VCS_BERETTA,17,25,1,6,colt45,"Beretta pistol, can be duel wielded with max skill",Pistol
+29115,VCS_EQUALIZER,6,150,1.25,30,deagle,".44 magnum with scope, lower fire rate but better damage and accuracy.",Revolver
+29116,VCS_AK47,30,30,0.6,4,rifle,Exactly the same as SA AK47 but with different sound.,Assault Rifle
+29117,VCS_SHOTGUN,2,15,0.25,34,rifle,Now a under-over double barreled shotgun.,Shotgun
+29118,VCS_SPAS12,8,15,1.6,8,rifle,"Semi-automatic shotgun, extended stock,  rifle animations.",Shotgun
+29119,VCS_BUDDYSHOT,5,10,2,9,buddy,Semi-automatic shotgun.,Shotgun
+29120,VCS_M16,20,30,0.8,3,rifle,"Vietnam era M16 with high fire rate, small magazine",Assault Rifle
+29121,VCS_SKORPION,50,20,1.1,4,silenced,Slow firerate and moderate damage.,SMG
+29122,VCS_UZI,25,25,1.2,4,uzi,Buttstock with smaller magazine.,SMG
+29123,VCS_INGRAM,32,25,1.3,2,uzi,Held with two hands.,SMG
+29124,VCS_SP89,30,20,1.2,3,uzi,"More ammo, less accuracy, lower damage.",SMG
+29125,LCS_M21,8,125,1.25,36,sniper,Semi-Auto Rifle with bigger magazine and a scope.,Rifle
+29126,VCS_SVD,10,125,1.25,20,sniper,Trademark sniper rifle.,Rifle
+29127,VCS_M27,1,75,,,rocket,Identical to SA Rocket Launcher,Heavy
+29128,VCS_FLAME,500,25,,,flame,"Needs to be removed or changed, texture looks like poop.",Heavy
+29129,VCS_M249,75,30,1.3,3,riflebad,Belt Fed machine gun.,Heavy
+29130,VCS_MINIGUN,250,40,1.2,2,flame,only has three barrels instead of SA’s 6. Shoots slower.,Heavy
+29134,UG_56_II,35,20,1.1,3,rifle,"Improved AK with bigger magazine, faster fire rate but less damage.",Assault Rifle
+29135,UG_93R,32,25,1.65,2,silenced,"Fully-automatic pistol, Big magazine, low damage.",Pistol
+29136,UG_AA12,20,10,1.4,32,rifle,"Fully automatic shotgun, high fire rate.",Shotgun
+29137,UG_AKS74U,30,25,1,4,uzi,"Was an assault rifle, moved to SMG’s, same as standard MP5, more recoil.",SMG
+29139,UG_AUGA3,42,30,0.9,3,rifle,"Modern bullpup assault rifle, high fire rate, good accuracy.",Assault Rifle
+29140,UG_AWP,5,125,1.25,20,sniper,High powered sniper rifle.,Rifle
+29142,UG_CARTEL REVOLVER,6,60,1.35,12,deagle,.357 magnum with golden ornaments. Slightly slower and lower damage than CC_REVOLVER but more accurate.,Revolver
+29144,UG_M1911,7,50,1.25,8,silenced,"Semi-automatic M1911. high damage, low fire rate.",Pistol
+29145,UG_ES57,20,30,1.35,5,silenced,"Semi-automatic, Five-seveN pistol.",Pistol
+29146,UG_FAMAS,25,30 ,0.7,2,rifle,"modern bullpup assault rifle, extreme fire rate, medium accuracy.",Assault Rifle
+29149,UG_G3,30,40 ,0.45,5,rifle,"60’s heavy assault rifle, high damage, low fire rate, medium accuracy",Assault Rifle
+29150,UG_G36C,30,30,0.8,4,rifle,exactly the same as SA M4,Assault Rifle
+29151,UG_GALIL,35,30,1,4,rifle,"70’s assault rifle, big magazine, medium accuracy",Assault Rifle
+29153,UG_HK416,30,30,0.65,3,rifle,"modern assault rifle, high fire rate",Assault Rifle
+29155,UG_KRISS ,33,20,1.2,2,uzi,Magazine increased.,SMG
+29157,UG_LUGER,8,40,1.25,7,silenced,WW2 German pistol.,Pistol
+29158,UG_LUXWALT,6,50,1.5,2,silenced,German spy pistol.,Pistol
+29159,UG_M1 GARAND,8,75,0.4,9,sniper,WW2 Battle Rifle.,Rifle
+29160,UG_M82,5,200,1.25,30,sniper,.50 Cal Heavy sniper with slow fire rate.,Rifle
+29161,UG_M200,3,200,1.25,30,sniper,Heavy duty sniper rifle.,Rifle
+29162,UG_M1903,5,75,1.25,26,sniper,Old Semi Automatic rifle.,Rifle
+29164,UG_MAUSER,10,30,1.3,6,silenced,German Mauser pistol.,Pistol
+29165,UG_MP7,40,20,1.4,2,uzi,Modern PDW.,SMG
+29166,UG_MP40,32,25,1.2,4,uzi,WW2 automatic SMG.,SMG
+29167,UG_OA93,30,20,1.2,4,uzi,Stockless Rifle.,SMG
+29168,UG_OLDIE,1,250,1.25,22,deagle,"One-shot kill weapon, high damage, high accuracy, slow fire rate.",Heavy Pistol
+29169,UG_P90,50,20,1.5,2,uzi,Modern SMG.,SMG
+29174,UG_PUMPSHOT,7,15,2,29,rifle,Military-grade pump action shotgun.,Shotgun
+29175,UG_REVOLVER,6,60,1.35,12,colt45,A gunslinger's revolver that can be duel wielded.,Revolver
+29177,UG_SCAR,20,50,0.5,5,rifle,"modern heavy assault rifle, extreme damage, low fire rate, medium accuracy, small magazine",Assault Rifle
+29179,UG_SCOUT,5,75,1.25,16,sniper,Modern mag fed sniper rifle.,Rifle
+29180,UG_SILENCED_UZI,35,20,1.2,4,uzi,"Buttstock, suppressed, lower damage and bigger magazine",SMG
+29181,UG_SONGBIRD,1,25,1,1,silenced,A 3D printed pistol with very poor stats.,Special Pistol
+29182,UG_SPCARBINE,30,25,1.2,3,uzi,Smaller version of the G36C.,SMG
+29185,UG_TMP,30,20,1.4,3,uzi,Suppressed SMG weapon.,SMG
+29187,UG_TOMMYGUN,50,20,0.8,2,riflebad,A Tommy gun with grip.,SMG
+29189,UG_TRIPLESHOT,3,10,0.9,5,mp5,Triple barrel shotgun.,Shotgun
+29190,UG_UMP45,30,25,1.2,3,uzi,Modern SMG.,SMG
+29192,UG_WOODSHOT,6,10,1.4,29,shotgun,Civilian owned shotgun.,Shotgun
+29195,UG_XM8,30,40,0.9,3,rifle,"futuristic assault rifle, high damage, high fire rate, best overall.",Assault Rifle
+29196,UG_XM1014,7,15,1.25,5,rifle,Tactical automatic shotgun.,Shotgun
+29199,BW_BBGUN,1,10,1,22,sniper,Non Lethal BB Gun.,Rifle
+29226,CC_DESERT_EAGLE,14,100,1.5,12,colt45,Smaller caliber desert eagle with lower ammo count but can be duel wielded.,Heavy Pistol
+29227,CC_GLOCK,15,25,1,6,colt45,"Same as the original pistol, can be duel wielded with high skill.",Pistol
+29230,CC_INGRAM,30,20,1,4,cotl45,Similar to its SA counterpart but with different sound.,SMG
+29232,CC_M4,20,30,0.8,4,rifle,Similar to VCS_M16 with slightly worse firerate.,Assault Rifle
+29237,CC_PSG1,1,125,1,26,sniper,Single shot sniper.,Rifle
+29238,CC_REVOLVER,6,40,1.5,10,colt45,"Snub-nosed .357 revolver with high recoil and low damage, can be duel wielded.",Revolver
+29240,CC_SPAS12,7,15,2,10,buddy,Very similar to SA counterpart.,Shotgun
+29241,CC_BUDDYSHOT,2,15,1.3,10,buddy,Double Barrel Shotgun.,Shotgun
+29244,CC_SNIPERRIFLE,6,125,1.25,20,sniper,Low-caliber sniper rifle,Rifle
+29245,CC_TRANQILIZER,3,100,1.25,16,sniper,Suppressed sniper.,Rifle
+29251,CM_DESERT_EAGLE,5,170,1.2,24,deagle,"A higher caliber version of the SA Deagle using .50AE. Higher damage, more recoil, less ammo.",Heavy Pistol
+29254,CM_GLOCK,15,25,1,3,silenced,Automatic version of the Glock with high RPMs.,Pistol
+29256,CM_INGRAM,30,20,1,3,silenced,Nerfed version of CC_INGRAM.,SMG
+29257,CM_M4,25,30,0.8,4,rifle,Very similar to  CC_M4 but with slightly bigger mag.,Assault Rifle
+29262,CM_REVOLVER,6,80,1.5,10,deagle,Higher damage and held with two hands.,Revolver
+29264,CM_SPAS12,7,15,1.5,10,buddy,"Semi-automatic shotgun, same as SA but with different visuals",Shotgun
+29265,CM_BUDDYSHOT,2,15,1.3,10,buddy,"Very similar CC_BUDDYSHOT, will be changed in the future",Shotgun
+29270,CM_TRANQILIZER,1,40,1,22,silenced,Single shot tranqilizer gun with moderate damage.,Special Pistol
+29276,CM_CROSSBOW,1,90,1.5,11,rifle,A single shot Crossbow.,Rifle
+29279,CM_FLAREGUN,1,10,1.5,11,python,"Low damage Flare Gun, has no functional flares.",Special Pistol
+29289,CM_SNIPERRIFLE,1,125,1.25,20,sniper,"very similar to CC_SNIPER, will be changed in the future.",Rifle
+29299,UG_2TGLOCK,12,25,1.25,2,colt45,Fully-automatic glock with a small clip that can be duel wielded .,Pistol
+29300,UG_AKSOPMOD,35,30,1,4,rifle,Tactical version of the AK47 with scope and foregrip.,Assault Rifle
+29301,UG_AR6,22,15,0.8,2,rifle,Cheap homemade rifle with extremely low damage but almost non-existant recoil.,Assault Rifle
+29306,UG_CALICO,30,25,1.5,11,silenced,Semi Automatic pistol with a big magazine used for long range combat.,Pistol
+29307,UG_CAMOSNIPER,6,90,1,24,sniper,Army issued semi auto sniper rifle with unique camo.,Rifle
+29309,UG_FMG9,31,20,1.2,2,uzi,Compact SMG.,SMG
+29311,UG_HK69A1,1,5,2,10,buddy,Grenade launcher – needs to be properly scripted.,Heavy
+29313,UG_M202A1,4,75,,,rocket,Vietnam Era multi barrel rocket launcher – OP as fuck.,Heavy
+29314,UG_M79,1,5,1.4,31,buddy,Vietnam Era grenade launcher – needs to be properly scripted.,Heavy
+29315,UG_MATADOR,1,75,,,rocket,High Tech anti tank rocket launcher.,Heavy
+29316,UG_PAINTBALL,20,5,1.2,2,uzi,Basic paintball gun with very low damage and high RPM,SMG
+29319,UG_RPG26,1,75,,,rocket,Army issued rocket launcher.,Heavy
+29320,UG_SEW500,6,180,1,24,deagle,"A high powered revolver with very high damage, high recoil and slow fire rate.",Revolver
+29321,UG_SILVERREVOLVER,6,80,1.25,20,deagle,Fast firing revolver with moderate damage.,Revolver
+29322,UG_SNUB,6,30,1.5,9,colt45,A pocket detective revolver that can be duel wielded.,Revolver
+29323,UG_SPAS15,5,15,2,4,rifle,Korean USAS 12 automatic shotgun.,Shotgun
+29325,UG_SRSA1,5,85,1.5,30,sniper,Magazine fed bolt action rifle with no scope.,Rifle
+29326,UG_STURMGEWEHR,30,30,0.8,4,rifle,German World War II era assault rifle.,SMG
+29329,UG_VOLCANIC,4,40,1.2,14,colt45,Lighter version of Oldie with slow fire rate but can be duel wielded.,Heavy Pistol

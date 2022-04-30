@@ -236,3 +236,45 @@ SELECT [ID]
 FROM [Underground].[dbo].[VehicleColor_data]
 
 GO
+
+CREATE TABLE WeaponStats
+([ID]			INT
+CONSTRAINT ws_id_pk PRIMARY KEY NOT NULL,
+[Name]		VARCHAR(25)			NOT NULL,
+[Magazine]	SMALLINT				NOT NULL,
+[Damage]		TINYINT				NOT NULL,
+[Accuracy]	FLOAT,
+[Fire Rate]	TINYINT,
+[Animation]	VARCHAR(15)			NOT NULL,
+[Description]	VARCHAR(150),
+[Type]		VARCHAR(25)			NOT NULL)
+
+INSERT INTO WeaponStats ([ID]
+      ,[Name]
+      ,[Magazine]
+      ,[Damage]
+      ,[Accuracy]
+      ,[Fire Rate]
+      ,[Animation]
+      ,[Description]
+      ,[Type])
+SELECT [ID]
+      ,[Name]
+      ,[Magazine]
+      ,[Damage]
+      ,[Accuracy]
+      ,[Fire_rate]
+      ,[Animation]
+      ,[Description]
+      ,[Type]
+FROM [Underground].[dbo].[WeaponStats_data]
+
+GO
+DELETE FROM WeaponStats WHERE ID = 29311
+GO
+DELETE FROM WeaponStats WHERE ID = 29314
+GO
+
+ALTER TABLE Weaponstats
+ADD FOREIGN KEY ([ID]) REFERENCES Weapons([Model ID])
+GO
